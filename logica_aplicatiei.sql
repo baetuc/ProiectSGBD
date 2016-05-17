@@ -4,7 +4,7 @@ CREATE OR REPLACE PACKAGE logica_aplicatiei AS
     p_parola     IN utilizator_parola.parola%TYPE)
   RETURN VARCHAR2;
   
-  function citat_random return VARCHAR2;
+  procedure citat_random(v_text out varchar2, v_autor out varchar2);
   
   -- Paginarea??
 END logica_aplicatiei;
@@ -26,23 +26,22 @@ CREATE OR REPLACE PACKAGE BODY logica_aplicatiei AS
     END IF;
   END login;
   
-  function citat_random return VARCHAR2
-  as
-    v_max_id number;
-    v_id number;
-    v_count number;
-    v_citat VARCHAR2(4000);
-  begin
-    select max(id) into v_max_id from citate;
-    loop
-      v_id:=trunc(DBMS_RANDOM.VALUE(1,v_max_id+1));
-      select count(id) into v_count from citate where id=v_id;
-      if v_count = 1 then
-        SELECT text INTO v_citat FROM citate WHERE id
-        return v_id;
-      end if;
-    end loop;
-  end citat_random;
+procedure citat_random(v_text out varchar2, v_autor out varchar2)
+as
+  v_max_id number;
+  v_id number;
+  v_count number;
+begin
+  select max(id) into v_max_id from citate;
+  loop
+    v_id:=trunc(DBMS_RANDOM.VALUE(1,v_max_id+1));
+    select count(id) into v_count from citate where id=v_id;
+    if v_count = 1 then
+      select text,autor into v_text,v_autor from citate where id=v_id;
+      return;
+    end if;
+  end loop;
+end citat_random;
 
 
 END logica_aplicatiei;

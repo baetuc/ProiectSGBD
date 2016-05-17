@@ -35,4 +35,4 @@ FROM
   ORDER BY rating DESC,
     isbn DESC
   )
-WHERE rownum <=10;
+WHERE rownum <=10; 

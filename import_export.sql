@@ -10,7 +10,7 @@ CREATE OR REPLACE PACKAGE BODY import_export
 IS
   g_fisierID_import utl_file.file_type;
   g_linie_citita VARCHAR2(1000);
-  
+
   PROCEDURE export_abordari
   IS
     out_file UTL_FILE.FILE_TYPE;
@@ -27,7 +27,7 @@ IS
     END LOOP;
     UTL_FILE.FCLOSE(out_file);
   END export_abordari;
-  
+
   PROCEDURE export_opere
   IS
     out_file UTL_FILE.FILE_TYPE;
@@ -44,7 +44,7 @@ IS
     END LOOP;
     UTL_FILE.FCLOSE(out_file);
   END export_opere;
-  
+
   PROCEDURE export_carti
   IS
     out_file UTL_FILE.FILE_TYPE;
@@ -61,7 +61,7 @@ IS
     END LOOP;
     UTL_FILE.FCLOSE(out_file);
   END export_carti;
-  
+
   PROCEDURE export_autori
   IS
     out_file UTL_FILE.FILE_TYPE;
@@ -78,7 +78,7 @@ IS
     END LOOP;
     UTL_FILE.FCLOSE(out_file);
   END export_autori;
-  
+
   PROCEDURE export_opere_autori
   IS
     out_file UTL_FILE.FILE_TYPE;
@@ -95,7 +95,7 @@ IS
     END LOOP;
     UTL_FILE.FCLOSE(out_file);
   END export_opere_autori;
-  
+
   PROCEDURE export_ierarhie
   IS
     out_file UTL_FILE.FILE_TYPE;
@@ -112,7 +112,7 @@ IS
     END LOOP;
     UTL_FILE.FCLOSE(out_file);
   END export_ierarhie;
-  
+
   PROCEDURE export_utilizatori_parola
   IS
     out_file UTL_FILE.FILE_TYPE;
@@ -135,18 +135,18 @@ IS
     out_file UTL_FILE.FILE_TYPE;
   BEGIN
     out_file := Utl_File.FOpen('EXPORT', 'citateExport.csv' , 'W');
-    Utl_File.Put_Line(out_file , 'id,text');
+    Utl_File.Put_Line(out_file , 'id,text,autor');
     UTL_FILE.FFLUSH (out_file);
     FOR c_linie IN
     (SELECT * FROM citate
     )
     LOOP
-      Utl_File.Put_Line(out_file, '' || c_linie.id || ',' || c_linie.text);
+      Utl_File.Put_Line(out_file, '' || c_linie.id || ',' || c_linie.text || ',' || c_linie.autor);
       UTL_FILE.FFLUSH (out_file);
     END LOOP;
     UTL_FILE.FCLOSE(out_file);
   END export_citate;
-  
+
   PROCEDURE export_database
   IS
   BEGIN
@@ -159,7 +159,7 @@ IS
     export_utilizatori_parola();
     export_citate();
   END export_database;
-  
+
   PROCEDURE import_BD_tabel(
       p_fisier     VARCHAR2,
       p_nume_tabel VARCHAR2)
@@ -185,7 +185,7 @@ IS
     dbms_output.put_line(v_insert);
     utl_file.fclose(g_fisierID_import);
   END import_BD_tabel;
-  
+
   PROCEDURE import_BD
   AS
   BEGIN
@@ -200,7 +200,8 @@ IS
   END import_BD;
 END import_export;
 /
-BEGIN
-  import_export.import_BD();
-END;
-/
+
+--BEGIN
+--  import_export.import_BD();
+--END;
+--/

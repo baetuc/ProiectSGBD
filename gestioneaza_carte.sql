@@ -1,14 +1,27 @@
-CREATE OR REPLACE PACKAGE gestioneaza_carte IS 
-  function carte_random return number;
-  procedure rate (p_isbn carti.isbn%type, p_rating carti.rating%type);
-  FUNCTION afiseaza_carte(p_ISBN IN carti.ISBN%TYPE, p_HTML IN NUMBER) RETURN VARCHAR2;
-  FUNCTION afiseaza_opera(p_opID IN opere.opID%TYPE, p_HTML IN NUMBER) RETURN VARCHAR2;
+CREATE OR REPLACE PACKAGE gestioneaza_carte
+IS
+  FUNCTION carte_random(
+      p_HTML IN NUMBER)
+    RETURN VARCHAR2;
+  PROCEDURE rate(
+      p_utilizator utilizator_carte_rating.utilizator%type,
+      p_isbn utilizator_carte_rating.isbn%type,
+      p_rating utilizator_carte_rating.rating%type,
+      p_mesaj_succes OUT VARCHAR2);
+  FUNCTION afiseaza_carte(
+      p_ISBN IN carti.ISBN%TYPE,
+      p_HTML IN NUMBER)
+    RETURN VARCHAR2;
+  FUNCTION afiseaza_opera(
+      p_opID IN opere.opID%TYPE,
+      p_HTML IN NUMBER)
+    RETURN VARCHAR2;
 END gestioneaza_carte;
 /
 
 CREATE OR REPLACE PACKAGE BODY gestioneaza_carte IS
 
-function carte_random return number
+function carte_random(p_HTML IN NUMBER) return VARCHAR2
 as
   v_max_isbn number;
   v_isbn number;
@@ -19,25 +32,32 @@ begin
     v_isbn:=trunc(DBMS_RANDOM.VALUE(1,v_max_isbn+1));
     select count(isbn) into v_count from carti where isbn=v_isbn;
     if v_count = 1 then
-      return v_isbn;
+      return afiseaza_carte(v_isbn, p_HTML);
     end if;
   end loop;
 end carte_random;
 
 
-procedure rate (p_isbn carti.isbn%type, p_rating carti.rating%type)
+procedure rate (p_utilizator utilizator_carte_rating.utilizator%type,
+  p_isbn utilizator_carte_rating.isbn%type, p_rating utilizator_carte_rating.rating%type,
+  p_mesaj_succes out varchar2)
 as
   v_count number;
 begin
-  select count(*) into v_count from carti where isbn=p_isbn;
+  select count(*) into v_count from utilizator_carte_rating 
+  where p_utilizator=utilizator and isbn=p_isbn;
   if v_count = 0 then
-    raise exceptii.isbn_inexistent;
+    insert into utilizator_carte_rating values(p_utilizator,p_isbn,p_rating);
+    p_mesaj_succes := 'Felicit?ri! Primul dvs rating la aceast? carte a fost înregistrat!';
+    elsif v_count = 1 then
+      update utilizator_carte_rating set rating=p_rating
+      where utilizator=p_utilizator and isbn=p_isbn;
+      p_mesaj_succes := 'Felicit?ri! Ratingul dvs pentru aceast? carte a fost actualizat!';
   end if;
-  update carti set rating=p_rating where isbn=p_isbn;
   
   exception
-  when exceptii.isbn_inexistent then
-    raise_application_error(exceptii.isbn_inexistent_nr,exceptii.isbn_inexistent_text);
+  when exceptii.cheie_straina_gresita then
+    raise_application_error(exceptii.cheie_straina_gresita_nr,'Eroare la introducere rating! V? rug?m s? verifica?i utilizatorul ?i isbn-ul s? fie valide.');
   when exceptii.constrangere then
     raise_application_error(exceptii.constrangere_nr,exceptii.constrangere_text || '''rating''.');
   when others then
@@ -136,9 +156,9 @@ END afiseaza_opera;
 END gestioneaza_carte;
 /
 
-select opID from opere natural join opere_autori group by opID having count(*) > 1;
-
-begin
-  dbms_output.put_line(gestioneaza_carte.afiseaza_opera(432, 1));
-end;
-/
+--select opID from opere natural join opere_autori group by opID having count(*) > 1;
+--
+--begin
+--  dbms_output.put_line(gestioneaza_carte.afiseaza_opera(745, 1));
+--end;
+--/
