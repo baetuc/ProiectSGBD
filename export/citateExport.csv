@@ -1,4 +1,99 @@
 id,text,autor
+61,If there were in the world today any large number of people who desired their own happiness more than they desired the unhappiness of others we could have a paradise in a few years.,Bertrand Russell.
+62,I've made an odd discovery. Every time I talk to a savant I feel quite sure that happiness is no longer a possibility. Yet when I talk with my gardener I'm convinced of the opposite.,Bertrand Russell.
+63,I think we ought always to entertain our opinions with some measure of doubt. I shouldn't wish people dogmatically to believe any philosophy not even mine.,Bertrand Russell.
+64,I remain convinced that obstinate addiction to ordinary language in our private thoughts is one of the main obstacles to progress in philosophy.,Bertrand Russell.
+65,Freedom in general may be defined as the absence of obstacles to the realization of desires.,Bertrand Russell.
+66,Democracy is the process by which people choose the man who'll get the blame.,Bertrand Russell.
+67,A lot of these people who keep a gun at home for safety are the same ones who refuse to wear a seat belt.,George Carlin.
+68,New programmers are drawn to multithreading like moths to flame  with similar results.,Tweet by Danny Thorpe.
+69,Heck I don't age in my mind - people around me just keep getting younger. :^),Van Swofford in e.p.delphi.non-technical.
+70,The clue train passed his station without stopping.,John Simmons / outlaw programmer.
+71,Real programmers just throw a bunch of 1s and 0s at the computer to see what sticks,Pete O'Hanlon.
+72,Not only do you continue to babble nonsense you can't even correctly remember the nonsense you babbled just minutes ago.,Rob Graham.
+73,You can't rush good cooking you can't rush babies out and you can't rush software development,Unknown.
+74,To eat well in England you should have breakfast three times a day.,W. Somerset Maugham
+75,Maybe her popularity stems from the fact that watching her is sometimes like watching a train wreck.,John McCain's daughter Meghan about Ann Coulter.
+76,Do you ever wake up in the middle of the night and just think to yourself 'I am just full of hot gas?',David Letterman to Rush Limbaugh.
+77,I told my wife that I had a living will: I do not wish to be fed liquids from a bottle and hooked to a machine. So she turned off the TV and threw away the beer.,Bob Hipsley.
+78,The only function of economic forecasting is to make astrology look respectable.,John Kenneth Galbraith.
+79,The government of the United States is in no sense founded on the Christian Religion.,George Washington
+80,If you can't be a good example then you'll just have to serve as a horrible warning.,Catherine Aird.
+81,If there's one thing worse than a program that doesn't work when it should it's a program that does work when it shouldn't.,Bob Archer.
+82,There's a fine line between being on the leading edge and being in the lunatic fringe.,Frank Armstrong.
+83,Once a new technology starts rolling if you're not part of the steamroller you're part of the road.,Stewart Brand.
+84,Einstein argued that there must be simplified explanations of nature because God is not capricious or arbitrary. No such faith comforts the software engineer.,Fred Brooks.
+85,Good judgement comes from experience and experience comes from bad judgement.,Fred Brooks.
+86,Plan to throw one away you will anyhow.,Fred Brooks.
+87,...well over half of the time you spend working on a project (on the order of 70 percent) is spent thinking and no tool  no matter how advanced can think for you. Consequently even if a tool did everything except the thinking for you,
+88,The act of focusing our mightiest intellectual resources on the elusive goal of goto-less programs has helped us get our minds off all those really tough and possibly unresolvable problems and issues with which today's professional programmer would otherwise have to grapple.,John Brown.
+89,The first 90% of the code accounts for the first 90% of the development time. The remaining 10% of the code accounts for the other 90% of the development time.,Tom Cargill.
+90,... the cost of adding a feature isn't just the time it takes to code it. The cost also includes the addition of an obstacle to future expansion. ... The trick is to pick the features that don't fight each other.,John Carmack.
+91,Trying to get into the details seems to be a religious issue -- nearly everybody is convinced that every style but their own is ugly and unreadable. Leave out the ,Jerry Coffin on indentation.
+92,The behavior of any bureaucratic organization can best be understood by assuming that it is controlled by a secret cabal of its enemies.,Robert Conquest's Second Law of Politics.
+93,C++ tries to guard against Murphy not Machiavelli.,Damian Conway.
+94,Organizations which design systems are constrained to produce designs which are copies of the communication structures of these organizations. (For example if you have four groups working on a compiler you'll get a 4-pass compiler),Conway's Law.
+95,Programmers are in a race with the Universe to create bigger and better idiot-proof programs while the Universe is trying to create bigger and better idiots. So far the Universe is winning.,Rich Cook.
+96,It has been said that the great scientific disciplines are examples of giants standing on the shoulders of other giants. It has also been said that the software industry is an example of midgets standing on the toes of other midgets.,Alan Cooper About Face.
+97,Learning is not compulsory. Neither is survival.,W. Edwards Deming.
+98,To iterate is human to recurse divine.,L. Peter Deutsch.
+99,Just because the standard provides a cliff in front of you  you are not necessarily required to jump off it.,Norman Diamond.
+100,A most important but also most elusive aspect of any tool is its influence on the habits of those who train themselves in its use. If the tool is a programming language this influence is  whether we like it or not an influence on our thinking habits.,Edsger Dijkstra.
+101,It is practically impossible to teach good programming style to students that have had prior exposure to Basic; as potential programmers they are mentally mutilated beyond hope of regeneration.,Edsger Dijkstra.
+102,Simplicity is prerequisite for reliability,Edsger W. Dijkstra.
+103,The competent programmer is fully aware of the strictly limited size of his own skull; therefore he approaches the programming task in full humility and among other things he avoids clever tricks like the plague.,Edsger Dijkstra.
+104,Any code of your own that you haven't looked at for six or more months might as well have been written by someone else.,Eagleson's law.
+105,Do not worry about your difficulties in mathematics. I can assure you that mine are still greater.,Albert Einstein.
+106,Make everything as simple as possible but not simpler.,Albert Einstein.
+107,Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.,Albert Einstein.
+108,I have always found that plans are useless but planning is indispensable.,Dwight Eisenhower.
+109,A foolish consistency is the hobgoblin of little minds adored by little statesmen and philosophers and divines.,Ralph Waldo Emerson.
+110,For a sucessful technology honesty must take precedence over public relations for nature cannot be fooled.,Richard Feynman.
+111,The first principle is that you must not fool yourself - and you are the easiest person to fool.,Richard Feynman.
+112,The inside of a computer is as dumb as hell but it goes like mad!,Richard Feynman.
+113,You can know the name of a bird in all the languages of the world but when you're finished you'll know absolutely nothing whatever about the bird... So let's look at the bird and see what it's doing,that's what counts. I learned very early
+114,One of the main causes of the fall of the Roman Empire was that  lacking zero they had no way to indicate successful termination of their C programs.,Robert Firth.
+115,There is not now nor has there ever been nor will there ever be  any programming language in which it is the least bit difficult to write bad code.,Flon's Law.
+116,Comparing to another activity is useful if it helps you formulate questions it's dangerous when you use it to justify answers.,Martin Fowler.
+117,Simplicity carried to the extreme becomes elegance.,Jon Franklin.
+118,If you want a girlfriend avoid working in the computer games industry like the plague. If you work seven days a week 15 hours a day for almost two years with barely enough time for a pint you have no time whatsoever for relationships. Plus computer-games makers are regarded as being about as hip and cool as abattoir workers.,Toby Gard
+119,Measuring programming progress by lines of code is like measuring aircraft building progress by weight.,Bill Gates.
+120,Good programmers use their brains but good guidelines save us having to think out every case.,Francis Glassborow.
+121,Software obeys the law of gaseous expansion - it continues to grow until memory is completely filled.,Larry Gleason.
+122,An API that isn't comprehensible isn't usable.,James Gosling.
+123,How the teacher reacts when something goes wrong tells the class what's important.,Bruce Hamilton.
+124,Never attribute to malice that which is adequately explained by stupidity.,Hanlon's razor.
+125,The road to wisdom?,Piet Hein.
+126,Moving parts in rubbing contact require lubrication to avoid excessive wear. Honorifics and formal politeness provide the lubrication where people rub together. Often the very young  the untraveled the naive the unsophisticated deplore these formalities as ,Robert A. Heinlein.
+127,There are perhaps 5% of the population that simply *can't* think. There are another 5% who *can* and *do*. The remaining 90% *can* think but *don't*.,Robert A. Heinlein.
+128,The open secrets of good design practice include the importance of knowing what to keep whole what to combine what to separate  and what to throw away.,Kevlin Henny.
+129,We are apt to shut our eyes against a painful truth.... For my part I am willing to know the whole truth; to know the worst; and to provide for it.,Patrick Henry.
+130,There are two ways of constructing a software design. One way is to make it so simple that there are obviously no deficiencies. And the other way is to make it so complicated that there are no obvious deficiencies.,C.A.R. Hoare.
+131,The unavoidable price of reliability is simplicity.,C.A.R. Hoare.
+132,The ability to simplify means to eliminate the unnecessary so that the necessary may speak.,Hans Hoffmann.
+133,It always takes longer than you expect even when you take into account Hofstadter's Law.,Hofstadter's Law.
+134,It's not at all important to get it right the first time. It's vitally important to get it right the last time.,Andrew Hunt and David Thomas.
+135,Rules of Optimization:,M.A. Jackson.
+136,Before software can be reusable it first has to be usable.,Ralph Johnson.
+137,First solve the problem. Then write the code.,John Johnson.
+138,It's so easy to become mesmerized by the immediacy of a result that you don't question its validity.,Naomi Karten.
+139,Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other with no structural integrity but just done by brute force and thousands of slaves.,Alan Kay.
+140,Perl is another example of filling a tiny short-term need and then being a real problem in the longer term.,Alan Kay.
+141,We are faced with an insurmountable opportunity.,W. Kelley.
+142,As we said in the preface to the first edition C 'wears well as one's experience with it grows.' With a decade more experience we still feel that way.,Brian Kernighan and Dennis Ritchie.
+143,Debugging is twice as hard as writing the code in the first place. Therefore if you write the code as cleverly as possible you are by definition not smart enough to debug it.,Brian W. Kernighan.
+144,Trying to outsmart a compiler defeats much of the purpose of using one.,Kernighan and Plauger
+145,A charlatan makes obscure what is clear; a thinker makes clear what is obscure.,Hugh Kingsmill.
+146,... the designer of a new system must not only be the implementor and the first large-scale user; the designer should also write the first user manual. ... If I had not participated fully in all these activities literally hundreds of improvements would never have been made because I would never have thought of them or perceived why they were important.,Donald Knuth.
+147,Any inaccuracies in this index may be explained by the fact that it has been sorted with the help of a computer.,Donald Knuth Sorting and Searching.
+148,Beware of bugs in the above code; I have only proved it correct  not tried it.,Donald Knuth.
+149,Computers are good at following instructions but not at reading your mind.,Donald Knuth.
+150,Let us change our traditional attitude to the construction of programs. Instead of imagining that our main task is to instruct a computer what to do let us concentrate rather on explaining to human beings what we want a computer to do.,Donald Knuth.
+151,TeX has found at least one bug in every Pascal compiler it's been run on I think and at least two in every C compiler.,Donald Knuth.
+152,The process of preparing programs for a digital computer is especially attractive not only because it can be economically and scientifically rewarding but also because it can be an aesthetic experience much like composing poetry or music.,Donald Knuth.
+153,These machines have no common sense; they have not yet learned to 'think' and they do exactly as they are told no more and no less. This fact is the hardest concept to grasp when one first tries to use a computer.,Donald Knuth.
+154,You're bound to be unhappy if you optimize everything.,Donald Knuth.
+470,Probably no nation is rich enough to pay for both war and education.,Braham Flexner.
 155,Programming can be fun so can cryptography; however they should not be combined.,Kreitzberg and Shneiderman.
 156,The perfect project plan is possible if one first documents a list of all the unknowns.,Bill Langley.
 157,Without stress nothing would move.,Bill Langley.
@@ -152,101 +247,139 @@ id,text,autor
 58,Liberty is the right to do what I like; license the right to do what you like.,Bertrand Russell.
 59,It is preoccupation with possessions more than anything else  that prevents us from living freely and nobly.,Bertrand Russell.
 60,In America everybody is of the opinion that he has no social superiors since all men are equal but he does not admit that he has no social inferiors for from the time of Jefferson onward the doctrine that all men are equal applies only upwards not downwards.,Bertrand Russell.
-61,If there were in the world today any large number of people who desired their own happiness more than they desired the unhappiness of others we could have a paradise in a few years.,Bertrand Russell.
-62,I've made an odd discovery. Every time I talk to a savant I feel quite sure that happiness is no longer a possibility. Yet when I talk with my gardener I'm convinced of the opposite.,Bertrand Russell.
-63,I think we ought always to entertain our opinions with some measure of doubt. I shouldn't wish people dogmatically to believe any philosophy not even mine.,Bertrand Russell.
-64,I remain convinced that obstinate addiction to ordinary language in our private thoughts is one of the main obstacles to progress in philosophy.,Bertrand Russell.
-65,Freedom in general may be defined as the absence of obstacles to the realization of desires.,Bertrand Russell.
-66,Democracy is the process by which people choose the man who'll get the blame.,Bertrand Russell.
-67,A lot of these people who keep a gun at home for safety are the same ones who refuse to wear a seat belt.,George Carlin.
-68,New programmers are drawn to multithreading like moths to flame  with similar results.,Tweet by Danny Thorpe.
-69,Heck I don't age in my mind - people around me just keep getting younger. :^),Van Swofford in e.p.delphi.non-technical.
-70,The clue train passed his station without stopping.,John Simmons / outlaw programmer.
-71,Real programmers just throw a bunch of 1s and 0s at the computer to see what sticks,Pete O'Hanlon.
-72,Not only do you continue to babble nonsense you can't even correctly remember the nonsense you babbled just minutes ago.,Rob Graham.
-73,You can't rush good cooking you can't rush babies out and you can't rush software development,Unknown.
-74,To eat well in England you should have breakfast three times a day.,W. Somerset Maugham
-75,Maybe her popularity stems from the fact that watching her is sometimes like watching a train wreck.,John McCain's daughter Meghan about Ann Coulter.
-76,Do you ever wake up in the middle of the night and just think to yourself 'I am just full of hot gas?',David Letterman to Rush Limbaugh.
-77,I told my wife that I had a living will: I do not wish to be fed liquids from a bottle and hooked to a machine. So she turned off the TV and threw away the beer.,Bob Hipsley.
-78,The only function of economic forecasting is to make astrology look respectable.,John Kenneth Galbraith.
-79,The government of the United States is in no sense founded on the Christian Religion.,George Washington
-80,If you can't be a good example then you'll just have to serve as a horrible warning.,Catherine Aird.
-81,If there's one thing worse than a program that doesn't work when it should it's a program that does work when it shouldn't.,Bob Archer.
-82,There's a fine line between being on the leading edge and being in the lunatic fringe.,Frank Armstrong.
-83,Once a new technology starts rolling if you're not part of the steamroller you're part of the road.,Stewart Brand.
-84,Einstein argued that there must be simplified explanations of nature because God is not capricious or arbitrary. No such faith comforts the software engineer.,Fred Brooks.
-85,Good judgement comes from experience and experience comes from bad judgement.,Fred Brooks.
-86,Plan to throw one away you will anyhow.,Fred Brooks.
-87,...well over half of the time you spend working on a project (on the order of 70 percent) is spent thinking and no tool  no matter how advanced can think for you. Consequently even if a tool did everything except the thinking for you,
-88,The act of focusing our mightiest intellectual resources on the elusive goal of goto-less programs has helped us get our minds off all those really tough and possibly unresolvable problems and issues with which today's professional programmer would otherwise have to grapple.,John Brown.
-89,The first 90% of the code accounts for the first 90% of the development time. The remaining 10% of the code accounts for the other 90% of the development time.,Tom Cargill.
-90,... the cost of adding a feature isn't just the time it takes to code it. The cost also includes the addition of an obstacle to future expansion. ... The trick is to pick the features that don't fight each other.,John Carmack.
-91,Trying to get into the details seems to be a religious issue -- nearly everybody is convinced that every style but their own is ugly and unreadable. Leave out the ,Jerry Coffin on indentation.
-92,The behavior of any bureaucratic organization can best be understood by assuming that it is controlled by a secret cabal of its enemies.,Robert Conquest's Second Law of Politics.
-93,C++ tries to guard against Murphy not Machiavelli.,Damian Conway.
-94,Organizations which design systems are constrained to produce designs which are copies of the communication structures of these organizations. (For example if you have four groups working on a compiler you'll get a 4-pass compiler),Conway's Law.
-95,Programmers are in a race with the Universe to create bigger and better idiot-proof programs while the Universe is trying to create bigger and better idiots. So far the Universe is winning.,Rich Cook.
-96,It has been said that the great scientific disciplines are examples of giants standing on the shoulders of other giants. It has also been said that the software industry is an example of midgets standing on the toes of other midgets.,Alan Cooper About Face.
-97,Learning is not compulsory. Neither is survival.,W. Edwards Deming.
-98,To iterate is human to recurse divine.,L. Peter Deutsch.
-99,Just because the standard provides a cliff in front of you  you are not necessarily required to jump off it.,Norman Diamond.
-100,A most important but also most elusive aspect of any tool is its influence on the habits of those who train themselves in its use. If the tool is a programming language this influence is  whether we like it or not an influence on our thinking habits.,Edsger Dijkstra.
-101,It is practically impossible to teach good programming style to students that have had prior exposure to Basic; as potential programmers they are mentally mutilated beyond hope of regeneration.,Edsger Dijkstra.
-102,Simplicity is prerequisite for reliability,Edsger W. Dijkstra.
-103,The competent programmer is fully aware of the strictly limited size of his own skull; therefore he approaches the programming task in full humility and among other things he avoids clever tricks like the plague.,Edsger Dijkstra.
-104,Any code of your own that you haven't looked at for six or more months might as well have been written by someone else.,Eagleson's law.
-105,Do not worry about your difficulties in mathematics. I can assure you that mine are still greater.,Albert Einstein.
-106,Make everything as simple as possible but not simpler.,Albert Einstein.
-107,Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.,Albert Einstein.
-108,I have always found that plans are useless but planning is indispensable.,Dwight Eisenhower.
-109,A foolish consistency is the hobgoblin of little minds adored by little statesmen and philosophers and divines.,Ralph Waldo Emerson.
-110,For a sucessful technology honesty must take precedence over public relations for nature cannot be fooled.,Richard Feynman.
-111,The first principle is that you must not fool yourself - and you are the easiest person to fool.,Richard Feynman.
-112,The inside of a computer is as dumb as hell but it goes like mad!,Richard Feynman.
-113,You can know the name of a bird in all the languages of the world but when you're finished you'll know absolutely nothing whatever about the bird... So let's look at the bird and see what it's doing,that's what counts. I learned very early
-114,One of the main causes of the fall of the Roman Empire was that  lacking zero they had no way to indicate successful termination of their C programs.,Robert Firth.
-115,There is not now nor has there ever been nor will there ever be  any programming language in which it is the least bit difficult to write bad code.,Flon's Law.
-116,Comparing to another activity is useful if it helps you formulate questions it's dangerous when you use it to justify answers.,Martin Fowler.
-117,Simplicity carried to the extreme becomes elegance.,Jon Franklin.
-118,If you want a girlfriend avoid working in the computer games industry like the plague. If you work seven days a week 15 hours a day for almost two years with barely enough time for a pint you have no time whatsoever for relationships. Plus computer-games makers are regarded as being about as hip and cool as abattoir workers.,Toby Gard
-119,Measuring programming progress by lines of code is like measuring aircraft building progress by weight.,Bill Gates.
-120,Good programmers use their brains but good guidelines save us having to think out every case.,Francis Glassborow.
-121,Software obeys the law of gaseous expansion - it continues to grow until memory is completely filled.,Larry Gleason.
-122,An API that isn't comprehensible isn't usable.,James Gosling.
-123,How the teacher reacts when something goes wrong tells the class what's important.,Bruce Hamilton.
-124,Never attribute to malice that which is adequately explained by stupidity.,Hanlon's razor.
-125,The road to wisdom?,Piet Hein.
-126,Moving parts in rubbing contact require lubrication to avoid excessive wear. Honorifics and formal politeness provide the lubrication where people rub together. Often the very young  the untraveled the naive the unsophisticated deplore these formalities as ,Robert A. Heinlein.
-127,There are perhaps 5% of the population that simply *can't* think. There are another 5% who *can* and *do*. The remaining 90% *can* think but *don't*.,Robert A. Heinlein.
-128,The open secrets of good design practice include the importance of knowing what to keep whole what to combine what to separate  and what to throw away.,Kevlin Henny.
-129,We are apt to shut our eyes against a painful truth.... For my part I am willing to know the whole truth; to know the worst; and to provide for it.,Patrick Henry.
-130,There are two ways of constructing a software design. One way is to make it so simple that there are obviously no deficiencies. And the other way is to make it so complicated that there are no obvious deficiencies.,C.A.R. Hoare.
-131,The unavoidable price of reliability is simplicity.,C.A.R. Hoare.
-132,The ability to simplify means to eliminate the unnecessary so that the necessary may speak.,Hans Hoffmann.
-133,It always takes longer than you expect even when you take into account Hofstadter's Law.,Hofstadter's Law.
-134,It's not at all important to get it right the first time. It's vitally important to get it right the last time.,Andrew Hunt and David Thomas.
-135,Rules of Optimization:,M.A. Jackson.
-136,Before software can be reusable it first has to be usable.,Ralph Johnson.
-137,First solve the problem. Then write the code.,John Johnson.
-138,It's so easy to become mesmerized by the immediacy of a result that you don't question its validity.,Naomi Karten.
-139,Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other with no structural integrity but just done by brute force and thousands of slaves.,Alan Kay.
-140,Perl is another example of filling a tiny short-term need and then being a real problem in the longer term.,Alan Kay.
-141,We are faced with an insurmountable opportunity.,W. Kelley.
-142,As we said in the preface to the first edition C 'wears well as one's experience with it grows.' With a decade more experience we still feel that way.,Brian Kernighan and Dennis Ritchie.
-143,Debugging is twice as hard as writing the code in the first place. Therefore if you write the code as cleverly as possible you are by definition not smart enough to debug it.,Brian W. Kernighan.
-144,Trying to outsmart a compiler defeats much of the purpose of using one.,Kernighan and Plauger
-145,A charlatan makes obscure what is clear; a thinker makes clear what is obscure.,Hugh Kingsmill.
-146,... the designer of a new system must not only be the implementor and the first large-scale user; the designer should also write the first user manual. ... If I had not participated fully in all these activities literally hundreds of improvements would never have been made because I would never have thought of them or perceived why they were important.,Donald Knuth.
-147,Any inaccuracies in this index may be explained by the fact that it has been sorted with the help of a computer.,Donald Knuth Sorting and Searching.
-148,Beware of bugs in the above code; I have only proved it correct  not tried it.,Donald Knuth.
-149,Computers are good at following instructions but not at reading your mind.,Donald Knuth.
-150,Let us change our traditional attitude to the construction of programs. Instead of imagining that our main task is to instruct a computer what to do let us concentrate rather on explaining to human beings what we want a computer to do.,Donald Knuth.
-151,TeX has found at least one bug in every Pascal compiler it's been run on I think and at least two in every C compiler.,Donald Knuth.
-152,The process of preparing programs for a digital computer is especially attractive not only because it can be economically and scientifically rewarding but also because it can be an aesthetic experience much like composing poetry or music.,Donald Knuth.
-153,These machines have no common sense; they have not yet learned to 'think' and they do exactly as they are told no more and no less. This fact is the hardest concept to grasp when one first tries to use a computer.,Donald Knuth.
-154,You're bound to be unhappy if you optimize everything.,Donald Knuth.
-470,Probably no nation is rich enough to pay for both war and education.,Braham Flexner.
+338,In modern war there is no such thing as victor and vanquished... There is only a loser and the loser is mankind.,U Thant
+339,If you kill one person you are a murderer. If you kill ten people you are a monster. If you kill ten thousand you are a national hero.,Vassilis Epaminondou.
+340,All murderers are punished unless they kill in large numbers and to the sound of trumpets.,Voltaire.
+341,So long as the deceit ran along quiet and monotonous all of us let ourselves be deceived abetting it unawares or maybe through cowardice...,William Faulkner.
+342,The cry has been that when war is declared all opposition should be hushed. A sentiment more unworthy of a free country could hardly be propagated.,William Ellery Channing.
+343,Necessity is the plea for every infringement of human freedom. It is the argument of tyrants; it is the creed of slaves.,William Pitt.
+344,You can no more win a war than you can win an earthquake.,Jeanette Rankin.
+345,So apparently Delphi now has both aristocrats [Counts Cardinals] and dogs [Pointers Setters] ... <g>,Andrew Fiddian-Green in borland.public.delphi.nativeapi.win32.
+346,Conservative politics is about simple solutions to complex problems which usually involve pinning all the blame on someone else. It doesn't matter whether they make any sense - they can be explained in several words and sound best when yelled.,Michael Warner in borland.public.off-topic.
+347,I contend that we are both atheists. I just believe in one fewer god than you do. When you understand why you dismiss all the other possible gods you will understand why I dismiss yours.,Stephen Roberts.
+348,Any intelligent fool can make things bigger more complex and more violent. It takes a touch of genius and a lot of courage to move in the opposite direction.,Albert Einstein.
+349,Man is certainly stark mad: he cannot make a worm yet he will make gods by the dozen.,Michel de Montaigne.
+350,Civil disobedience that's not our problem. Our problem is that people are obedient all over the world in the face of poverty and starvation and stupidity and war and cruelty. Our problem is that people are obedient while the jails are full of petty thieves and all the while the grand thieves are running the country. That's our problem.,Howard Zinn.
+351,Men will never be free until the last king is strangled with the entrails of the last priest.,Denis Diderot.
+352,We on our side are praying to Him to give us victory  because we believe we are right; but those on the other side pray to Him too for victory believing they are right. What must He think of us?,Abraham Lincoln.
+353,Invisible Pink Unicorns are beings of awesome mystical power. We know this because they manage to be invisible and pink at the same time. Like all religions the Faith of the Invisible Pink Unicorns is based upon both logic and faith. We have faith that they are pink; we logically know that they are invisible because we can't see them.,Steve Eley.
+354,All great truths begin as blasphemies.,George Bernard Shaw.
+355,The injury we do and the one we suffer are not weighed in the same scale.,Aesop.
+356,Take only memories; leave nothing but footprints.,Chief Seattle.
+357,They made a wasteland and called it peace.,Tacitus.
+358,The law in its majestic equality forbids the rich as well as the poor to sleep under the bridges to beg in the streets  and to steal bread.,Anatole France.
+359,The philosopher has never killed any priests whereas the priest has killed a great many philosophers.,Denis Diderot.
+360,A terrorist is someone who has a bomb but can't afford an air force.,William Blum.
+361,What you do speaks so loud that I cannot hear what you say.,Ralph Waldo Emerson.
+362,A time will come when a politician who has willfully made war and promoted international dissension will be ... surer of the noose than a private homicide.,H. G. Wells.
+363,A man's ethical behavior should be based effectually on sympathy education and social ties and needs; no religious basis is necessary. Man would indeed be in a poor way if he had to be restrained by fear of punishment and hope of reward after death.,Albert Einstein.
+364,Disobedience in the eyes of anyone who has read history is man's original virtue. It is through disobedience that progress has been made through disobedience and through rebellion.,Oscar Wilde.
+365,When you philosophically oppose an entire power elite you cannot help but sound like a conspiracy theorist. Social power is by nature a conspiracy.,Tom N.
+366,Because I do it with one small ship I am called a terrorist (pirate?). You do it with a whole fleet and are called an emperor.,St. Augustine.
+367,Insanity in individuals is something rare; but in groups  parties nations and epochs it is the rule.,Nietzsche.
+368,If you talk to God you are praying. If God talks to you you have schizophrenia.,Thomas Szasz.
+369,Every war when it comes or before it comes is represented not as a war but as an act of self-defense against a homicidal maniac.,George Orwell.
+370,It was of course a lie what you read about my religious convictions a lie which is being systematically repeated. I do not believe in a personal god and I have never denied this but have expressed it clearly. If something is in me which can be called religious then it is the unbounded admiration for the structure of the world so far as our science can reveal it.,Albert Einstein.
+371,You know your god is man-made when he hates all the same people you do.,[Usenet].
+372,Disobedience is the true foundation of liberty. The obedient must be slaves.,Henry David Thoreau.
+373,One man's magic is another man's engineering. Supernatural is a null word.,Robert Heinlein.
+374,We must question the story logic of having an all-knowing all-powerful God who creates faulty humans and then blames them for his own mistakes.,Gene Roddenberry.
+375,The trouble with the world is that the stupid are cocksure and the intelligent are full of doubt.,Bertrand Russell.
+376,As with the Christian religion the worst advertisement for Socialism is its adherents.,George Orwell.
+377,A conservative is a man who is too cowardly to fight and too fat to run.,Elbert Hubbard.
+378,Religion is what keeps the poor from murdering the rich.,Napoleon.
+379,Never be deceived that the rich will allow you to vote away their wealth.,Lucy Parsons.
+380,If child molestation is actually your concern how come we don't see Bradley tanks knocking down Catholic churches?,Bill Hicks
+381,Do you see now that your self-righteousness was nothing more than breeding and years of privilege? You know we are one nation under a god. Yes you were right. An angry crack slinging god who decorates with bullets and spent condoms a blind god whose eyes are just like yours.,Solipsist by Henry Rollins.
+382,Religion comprises a system of wishful illusions together with a disavowal of reality such as we find in an isolated form nowhere else but in amentia in a state of blissful hallucinatory confusion.,Sigmund Freud.
+383,The ink of the scholar is holier than the blood of the martyr.,Prophet Muhammad.
+384,Which is it is man one of God's blunders or is God one of man's?,Nietzsche.
+385,The compulsion to do good is an innate American trait. Only North Americans seem to believe that they always should may  and actually can choose somebody with whom to share their blessings. Ultimately this attitude leads to bombing people into the acceptance of gifts.,Ivan Illich.
+386,... The biggest detractors of communism and socialism always seem to want to embrace the worst excesses of both.,<Skullhunter>.
+387,Kill a man and you are an assassin. Kill millions of men and you are a conqueror. Kill everyone and you are a god.,Jean Rostand.
+388,Secular schools can never be tolerated because such schools have no religious instruction and a general moral instruction without a religious foundation is built on air; consequently  all character training and religion must be derived from faith ... we need believing people.,Adolf Hitler.
+389,I never would have agreed to the formulation of the Central Intelligence Agency back in forty-seven if I had known it would become the American Gestapo.,Harry S Truman
+390,Men are not punished for their sins but by them.,Elbert G Hubbard.
+391,I like your Christ; I do not like your Christians. Your Christians are so unlike your Christ.,Mohandas Gandhi.
+392,Unless Americans come to realize that they are not stronger in the world because they have the bomb but weaker because of their vulnerability to atomic attack they are not likely to conduct their policy in a spirit that furthers the arrival at an understanding.,Albert Einstein.
+393,Patriotism is your conviction that this country is superior to all other countries because you were born in it.,George Bernard Shaw.
+394,The same people that wrote the bible thought the world was flat.,Unknown - (disputed).
+395,If god created us in his image we have certainly returned the compliment.,Voltaire.
+396,Stopping terrorism is simple. Just quit screwing around with other people's countries and the terrorists will go home. But the government of the United States wants to go on screwing around with other people's countries refuses to stop indeed views it as Manifest Destiny for the United States Government to persist in screwing around with other people's countries  and views the inconvenience increased tax burden loss of civil liberties and even deaths among the American people as just another cost of doing business.,Michael Rivero.
+397,Be happy while you're living for you're a long time dead.,Scottish proverb.
+398,Work like you don't need the money. Love like you've never been hurt. Dance like nobody's watching.,Satchel Paige.
+399,Git yer guns the liberal folks are gonna let the coloreds vote!,Unknown.
+400,Be kind; everyone you meet is fighting a hard battle.,Plato
+401,It is forbidden to kill; therefore all murderers are punished unless they kill in large numbers and to the sound of trumpets.,Voltaire.
+402,Capitalism is the astounding belief that the most wickedest of men will do the most wickedest of things for the greatest good of everyone.,John Maynard Keynes.
+403,I distrust those people who know so well what God wants them to do because I notice it always coincides with their own desires.,Susan B. Anthony.
+404,If pigs could vote the man with the slop bucket would be elected swineherd every time no matter how much slaughtering he did on the side.,Orson Scott Card.
+405,It is poverty to decide that a child must die so that you may live as you wish.,Mother Teresa.
+406,I'm ineffably tired of pro-war ideologues moaning about how the anti-war folk are just 'complaining' without 'offering solutions' to global dilemmas. Peace doesn't need a freekin moral ethical economical or political qualification; war does. Peace doesn't ravage plunder rape or kill; war does. Peace does not need justification war does.,<|OnAir|>.
+407,History is an account mostly false of events mostly unimportant which are brought about by rulers mostly knaves  and soldiers mostly fools.,Ambrose Bierce.
+408,The people who have really made history are the martyrs.,Aleister Crowley.
+409,Laurel and Hardy that's John and Yoko. And we stand a better chance under that guise because all the serious people like Martin Luther King Jr. and Kennedy and Gandhi got shot.,John Lennon.
+410,Does anybody know who Lee Harvey Oswald was? . . . And do you know how far away he was? . . . Two hundred and fifty feet. He was two hundred and fifty feet away and shooting at a moving target. He got off three shots with a bolt action rifle in six seconds and got two hits including a head shot. Do you know where those men learned to shoot like that? . . . In the Marines! Outstanding! Those individuals showed what one motivated marine and his rifle can do! And before you ladies leave my island you will be able to do the same thing!,Full Metal Jacket.
+411,I love talking about the Kennedy assassination. The reason I do is because I'm fascinated by it. I'm fascinated that our government could lie to us so blatantly so obviously for so long and we do absolutely nothing about it.,Bill Hicks.
+412,Men who believe absurdities will commit atrocities.,Voltaire.
+413,The nationalist not only does not disapprove of atrocities committed by his own side but he has a remarkable capacity for not even hearing about them.,George Orwell.
+414,Our government has kept us in a perpetual state of fear kept us in a continuous stampede of patriotic fervor with the cry of grave national emergency. Always there has been some terrible evil at home or some monstrous foreign power that was going to gobble us up if we did not blindly rally behind it.,General Douglas MacArthur.
+415,Knowledge idea belief stands in the way of wisdom.,J. Krishnamurthi.
+416,If we'd been born where they were born and taught what they were taught we would believe what they believe.,A church sign in Northern Ireland.
+417,My humble friend we know not how to live this life which is so short yet seek one that never ends.,Anatole France.
+418,It makes no difference as to the name of the God since love is the real God of all in the world.,Apache.
+419,We choose our joys and sorrows long before we experience them.,Kahlil Gibran.
+420,Statistically one hundred percent of the shots you don't take don't go in.,Wayne Gretsky.
+421,Christianity exceeds all other faiths in its power to deform and finally invert the mental process.,Ida White.
+422,God favors no group. Only religions do that.,Bumper Sticker.
+423,On the outskirts of every agony sits some observant fellow who points.,Virginia Woolf.
+424,The fascist state is the corporate state.,Benito Mussolini.
+425,Jehovah was not a moral god. He had all the vices and he lacked all the virtues. He generally carried out all his threats but he never faithfully kept a promise.,Robert G. Ingersoll.
+426,Guns make us powerful; butter will only make us fat.,Nazi Hermann Goering.
+427,Life is like an overlong drama through which we sit being nagged by the vague memories of having read the reviews.,John Updike.
+428,Everyone likes to say Hitler did this and Hitler did that. But the truth is Hitler did very little. He was a world class asshole but the evil actually done from the death camps to World War Two was all done by citizens who were afraid to question if what they were told by their government was the truth or not and who because they did not want to admit to themselves that they were afraid to question the government  refused to see the truth behind the Reichstag Fire refused to see the invasion by Poland was a staged fake and followed Hitler into national disaster.,Michael Rivero.
+429,Each nation knowing it has the only true religion and the only sane system of government each despising all the others each an ass and not suspecting it.,Mark Twain.
+430,All men are created equal. They are endowed by their Creator with certain unalienable rights among these are life liberty and the pursuit of happiness.,Ho Chi Minh
+431,You will kill ten of our men and we will kill one of yours  and in the end it will be you who tire of it.,Ho Chi Minh.
+432,I ain't got no quarrel with the Vietcong ... No Vietcong ever called me nigger.,Muhammad Ali
+433,I can envision a small cottage somewhere with a lot of writing paper and a dog and a fireplace and maybe enough money to give myself some Irish coffee now and then and entertain my two friends.,Richard Van de Geer
+434,If you are required to kill someone today on the promise of a political leader that someone else shall live in peace tomorrow believe me you are not only a double murderer you are a suicide too.,Katherine Anne Porter.
+435,I spent thirty-three years in the marines most of my time being a high-class muscle man for big business for Wall Street and the bankers. In short I was a racketeer for capitalism.,General Smedley Butler
+436,Over breakfast coffee we read of 40 000 American dead in Vietnam. Instead of vomiting we reach for the toast. Our morning rush through crowded streets is not to cry murder but to hit that trough before somebody else gobbles our share.,Dalton Trumbo.
+437,What difference does it make to the dead the orphans and the homeless whether the mad destruction is wrought under the name of totalitarianism or the holy name of liberty and democracy?,Mohandas Gandhi.
+438,It is not so much the suffering as the senselessness of it that is unendurable.,Nietzsche.
+439,I dream that someday the United States will be on the side of the peasants in some civil war. I dream that we will be the ones who will help the poor overthrow the rich who will talk about land reform and education and health facilities for everyone and that when the Red Cross or Amnesty International comes to count the bodies and take the testimony of women raped that our side won't be the heavies.,Richard Cohen.
+440,Throughout the world on any given day a man woman or child is likely to be displaced tortured killed or disappeared at the hands of governments or armed political groups. More often than not the United States shares the blame.,Amnesty International
+441,I am tired of fighting our chiefs are killed...it is cold and we have no blankets. The little children are freezing to death...hear me my chiefs I am tired: my heart is sick and sad. From where the sun now stands...I will fight no more forever...,Chief Joseph
+442,When great changes occur in history when great principles are involved as a rule the majority are wrong.,Eugene V. Debs.
+443,Usually when people are sad they don't do anything. They just cry over their condition. But when they get angry they bring about a change.,Malcolm X.
+444,If we could read the secret history of our enemies we should find in each man's life sorrow and suffering enough to disarm all hostility.,Henry Wadsworth Longfellow.
+445,Where it is a duty to worship the sun it is pretty sure to be a crime to examine the laws of heat.,John Morley.
+446,The Church says that the earth is flat but I know that it is round for I have seen its shadow on the moon and I have more faith in a shadow than in the Church.,Ferdinand Magellan - (disputed).
+447,A casual stroll through the lunatic asylum shows that faith does not prove anything.,Nietzsche.
+448,Humanity without religion is like a serial killer without a chainsaw.,Unknown.
+449,In all the disputes which have excited Christians against each other Rome has invariably decided in favor of that opinion which tended most towards the suppression of the human intellect and the annihilation of the reasoning powers.,Voltaire.
+450,Humanity has advanced when it has advanced not because it has been sober responsible and cautious but because it has been playful rebellious and immature.,Tom Robbins.
+451,The most detestable wickedness the most horrid cruelties and the greatest miseries that have afflicted the human race have had their origin in this thing called revelation or revealed religion.,Thomas Paine.
+452,I have seldom met an intelligent person whose views were not narrowed and distorted by religion.,James Buchanan.
+453,Fascism is capitalism in decay.,Vladimir Ilyich Lenin.
+454,Giving money and power to government is like giving whiskey and car keys to teenage boys.,P. J. O'Rourke.
+455,The police are not here to create disorder. They're here to preserve disorder.,Ex-Chicago Mayor Daley during the 1968 riots.
+456,We need a common enemy to unite us.,Condoleezza Rice
+457,I don't know that atheists should be considered citizens nor should they be considered patriots. This is one nation under God.,President George Bush
+458,Peace is over rated. Any slave can have peace. Just pick the cotton.,TheSong.
+459,Pain is certain suffering is optional.,Buddha.
+460,When did I realize I was God? Well I was praying and I suddenly realized I was talking to myself.,"Jack Gurney - ""The Ruling Class""."
+461,Could a being create the fifty billion galaxies each with two hundred billion stars then rejoice in the smell of burning goat flesh?,Ron Patterson.
+462,The United States is in no sense founded upon the Christian doctrine.,George Washington Administration Treaty.
+463,In the end we will remember not the words of our enemies but the silence of our friends.,Martin Luther King
+464,You're not to be so blind with patriotism that you can't face reality. Wrong is wrong no matter who does it or says it.,Malcolm X.
+465,The great nations have always acted like gangsters and the small nations like prostitutes.,Stanley Kubrick.
+466,The Pope!?! How many divisions has he got?,Joseph Stalin.
+467,Science has done more for the development of western civilization in one hundred years than Christianity did in eighteen hundred years.,Jeff Burroughs.
+468,It is my conviction that killing under the cloak of war is nothing but an act of murder.,Albert Einstein.
+469,Americans used to roar like lions for liberty; now we bleat like sheep for security.,Norman Vincent Peale.
+679,The best way to make children good is to make them happy.,Oscar Wilde.
 471,It is part of the general pattern of misguided policy that our country is now geared to an arms economy which was bred in an artificially induced psychosis of war hysteria and nurtured upon an incessant propaganda of fear.,General Douglas MacArthur.
 472,Everybody's worried about stopping terrorism. Well there's a really easy way; stop participating in it.,Noam Chomsky.
 473,Everyone laughs and cries in the same language.,dreamslaughter.
@@ -491,201 +624,6 @@ id,text,autor
 335,If you live long enough you'll see that every victory turns into a defeat.,Simone de Beauvoir.
 336,The great error of nearly all studies of war... has been to consider war as an episode in foreign policies when it is an act of interior politics...,Simone Weil.
 337,Terrorism is the war of the poor and war is the terrorism of the rich.,Sir Peter Ustinov.
-338,In modern war there is no such thing as victor and vanquished... There is only a loser and the loser is mankind.,U Thant
-339,If you kill one person you are a murderer. If you kill ten people you are a monster. If you kill ten thousand you are a national hero.,Vassilis Epaminondou.
-340,All murderers are punished unless they kill in large numbers and to the sound of trumpets.,Voltaire.
-341,So long as the deceit ran along quiet and monotonous all of us let ourselves be deceived abetting it unawares or maybe through cowardice...,William Faulkner.
-342,The cry has been that when war is declared all opposition should be hushed. A sentiment more unworthy of a free country could hardly be propagated.,William Ellery Channing.
-343,Necessity is the plea for every infringement of human freedom. It is the argument of tyrants; it is the creed of slaves.,William Pitt.
-344,You can no more win a war than you can win an earthquake.,Jeanette Rankin.
-345,So apparently Delphi now has both aristocrats [Counts Cardinals] and dogs [Pointers Setters] ... <g>,Andrew Fiddian-Green in borland.public.delphi.nativeapi.win32.
-346,Conservative politics is about simple solutions to complex problems which usually involve pinning all the blame on someone else. It doesn't matter whether they make any sense - they can be explained in several words and sound best when yelled.,Michael Warner in borland.public.off-topic.
-347,I contend that we are both atheists. I just believe in one fewer god than you do. When you understand why you dismiss all the other possible gods you will understand why I dismiss yours.,Stephen Roberts.
-348,Any intelligent fool can make things bigger more complex and more violent. It takes a touch of genius and a lot of courage to move in the opposite direction.,Albert Einstein.
-349,Man is certainly stark mad: he cannot make a worm yet he will make gods by the dozen.,Michel de Montaigne.
-350,Civil disobedience that's not our problem. Our problem is that people are obedient all over the world in the face of poverty and starvation and stupidity and war and cruelty. Our problem is that people are obedient while the jails are full of petty thieves and all the while the grand thieves are running the country. That's our problem.,Howard Zinn.
-351,Men will never be free until the last king is strangled with the entrails of the last priest.,Denis Diderot.
-352,We on our side are praying to Him to give us victory  because we believe we are right; but those on the other side pray to Him too for victory believing they are right. What must He think of us?,Abraham Lincoln.
-353,Invisible Pink Unicorns are beings of awesome mystical power. We know this because they manage to be invisible and pink at the same time. Like all religions the Faith of the Invisible Pink Unicorns is based upon both logic and faith. We have faith that they are pink; we logically know that they are invisible because we can't see them.,Steve Eley.
-354,All great truths begin as blasphemies.,George Bernard Shaw.
-355,The injury we do and the one we suffer are not weighed in the same scale.,Aesop.
-356,Take only memories; leave nothing but footprints.,Chief Seattle.
-357,They made a wasteland and called it peace.,Tacitus.
-358,The law in its majestic equality forbids the rich as well as the poor to sleep under the bridges to beg in the streets  and to steal bread.,Anatole France.
-359,The philosopher has never killed any priests whereas the priest has killed a great many philosophers.,Denis Diderot.
-360,A terrorist is someone who has a bomb but can't afford an air force.,William Blum.
-361,What you do speaks so loud that I cannot hear what you say.,Ralph Waldo Emerson.
-362,A time will come when a politician who has willfully made war and promoted international dissension will be ... surer of the noose than a private homicide.,H. G. Wells.
-363,A man's ethical behavior should be based effectually on sympathy education and social ties and needs; no religious basis is necessary. Man would indeed be in a poor way if he had to be restrained by fear of punishment and hope of reward after death.,Albert Einstein.
-364,Disobedience in the eyes of anyone who has read history is man's original virtue. It is through disobedience that progress has been made through disobedience and through rebellion.,Oscar Wilde.
-365,When you philosophically oppose an entire power elite you cannot help but sound like a conspiracy theorist. Social power is by nature a conspiracy.,Tom N.
-366,Because I do it with one small ship I am called a terrorist (pirate?). You do it with a whole fleet and are called an emperor.,St. Augustine.
-367,Insanity in individuals is something rare; but in groups  parties nations and epochs it is the rule.,Nietzsche.
-368,If you talk to God you are praying. If God talks to you you have schizophrenia.,Thomas Szasz.
-369,Every war when it comes or before it comes is represented not as a war but as an act of self-defense against a homicidal maniac.,George Orwell.
-370,It was of course a lie what you read about my religious convictions a lie which is being systematically repeated. I do not believe in a personal god and I have never denied this but have expressed it clearly. If something is in me which can be called religious then it is the unbounded admiration for the structure of the world so far as our science can reveal it.,Albert Einstein.
-371,You know your god is man-made when he hates all the same people you do.,[Usenet].
-372,Disobedience is the true foundation of liberty. The obedient must be slaves.,Henry David Thoreau.
-373,One man's magic is another man's engineering. Supernatural is a null word.,Robert Heinlein.
-374,We must question the story logic of having an all-knowing all-powerful God who creates faulty humans and then blames them for his own mistakes.,Gene Roddenberry.
-375,The trouble with the world is that the stupid are cocksure and the intelligent are full of doubt.,Bertrand Russell.
-376,As with the Christian religion the worst advertisement for Socialism is its adherents.,George Orwell.
-377,A conservative is a man who is too cowardly to fight and too fat to run.,Elbert Hubbard.
-378,Religion is what keeps the poor from murdering the rich.,Napoleon.
-379,Never be deceived that the rich will allow you to vote away their wealth.,Lucy Parsons.
-380,If child molestation is actually your concern how come we don't see Bradley tanks knocking down Catholic churches?,Bill Hicks
-381,Do you see now that your self-righteousness was nothing more than breeding and years of privilege? You know we are one nation under a god. Yes you were right. An angry crack slinging god who decorates with bullets and spent condoms a blind god whose eyes are just like yours.,Solipsist by Henry Rollins.
-382,Religion comprises a system of wishful illusions together with a disavowal of reality such as we find in an isolated form nowhere else but in amentia in a state of blissful hallucinatory confusion.,Sigmund Freud.
-383,The ink of the scholar is holier than the blood of the martyr.,Prophet Muhammad.
-384,Which is it is man one of God's blunders or is God one of man's?,Nietzsche.
-385,The compulsion to do good is an innate American trait. Only North Americans seem to believe that they always should may  and actually can choose somebody with whom to share their blessings. Ultimately this attitude leads to bombing people into the acceptance of gifts.,Ivan Illich.
-386,... The biggest detractors of communism and socialism always seem to want to embrace the worst excesses of both.,<Skullhunter>.
-387,Kill a man and you are an assassin. Kill millions of men and you are a conqueror. Kill everyone and you are a god.,Jean Rostand.
-388,Secular schools can never be tolerated because such schools have no religious instruction and a general moral instruction without a religious foundation is built on air; consequently  all character training and religion must be derived from faith ... we need believing people.,Adolf Hitler.
-389,I never would have agreed to the formulation of the Central Intelligence Agency back in forty-seven if I had known it would become the American Gestapo.,Harry S Truman
-390,Men are not punished for their sins but by them.,Elbert G Hubbard.
-391,I like your Christ; I do not like your Christians. Your Christians are so unlike your Christ.,Mohandas Gandhi.
-392,Unless Americans come to realize that they are not stronger in the world because they have the bomb but weaker because of their vulnerability to atomic attack they are not likely to conduct their policy in a spirit that furthers the arrival at an understanding.,Albert Einstein.
-393,Patriotism is your conviction that this country is superior to all other countries because you were born in it.,George Bernard Shaw.
-394,The same people that wrote the bible thought the world was flat.,Unknown - (disputed).
-395,If god created us in his image we have certainly returned the compliment.,Voltaire.
-396,Stopping terrorism is simple. Just quit screwing around with other people's countries and the terrorists will go home. But the government of the United States wants to go on screwing around with other people's countries refuses to stop indeed views it as Manifest Destiny for the United States Government to persist in screwing around with other people's countries  and views the inconvenience increased tax burden loss of civil liberties and even deaths among the American people as just another cost of doing business.,Michael Rivero.
-397,Be happy while you're living for you're a long time dead.,Scottish proverb.
-398,Work like you don't need the money. Love like you've never been hurt. Dance like nobody's watching.,Satchel Paige.
-399,Git yer guns the liberal folks are gonna let the coloreds vote!,Unknown.
-400,Be kind; everyone you meet is fighting a hard battle.,Plato
-401,It is forbidden to kill; therefore all murderers are punished unless they kill in large numbers and to the sound of trumpets.,Voltaire.
-402,Capitalism is the astounding belief that the most wickedest of men will do the most wickedest of things for the greatest good of everyone.,John Maynard Keynes.
-403,I distrust those people who know so well what God wants them to do because I notice it always coincides with their own desires.,Susan B. Anthony.
-404,If pigs could vote the man with the slop bucket would be elected swineherd every time no matter how much slaughtering he did on the side.,Orson Scott Card.
-405,It is poverty to decide that a child must die so that you may live as you wish.,Mother Teresa.
-406,I'm ineffably tired of pro-war ideologues moaning about how the anti-war folk are just 'complaining' without 'offering solutions' to global dilemmas. Peace doesn't need a freekin moral ethical economical or political qualification; war does. Peace doesn't ravage plunder rape or kill; war does. Peace does not need justification war does.,<|OnAir|>.
-407,History is an account mostly false of events mostly unimportant which are brought about by rulers mostly knaves  and soldiers mostly fools.,Ambrose Bierce.
-408,The people who have really made history are the martyrs.,Aleister Crowley.
-409,Laurel and Hardy that's John and Yoko. And we stand a better chance under that guise because all the serious people like Martin Luther King Jr. and Kennedy and Gandhi got shot.,John Lennon.
-410,Does anybody know who Lee Harvey Oswald was? . . . And do you know how far away he was? . . . Two hundred and fifty feet. He was two hundred and fifty feet away and shooting at a moving target. He got off three shots with a bolt action rifle in six seconds and got two hits including a head shot. Do you know where those men learned to shoot like that? . . . In the Marines! Outstanding! Those individuals showed what one motivated marine and his rifle can do! And before you ladies leave my island you will be able to do the same thing!,Full Metal Jacket.
-411,I love talking about the Kennedy assassination. The reason I do is because I'm fascinated by it. I'm fascinated that our government could lie to us so blatantly so obviously for so long and we do absolutely nothing about it.,Bill Hicks.
-412,Men who believe absurdities will commit atrocities.,Voltaire.
-413,The nationalist not only does not disapprove of atrocities committed by his own side but he has a remarkable capacity for not even hearing about them.,George Orwell.
-414,Our government has kept us in a perpetual state of fear kept us in a continuous stampede of patriotic fervor with the cry of grave national emergency. Always there has been some terrible evil at home or some monstrous foreign power that was going to gobble us up if we did not blindly rally behind it.,General Douglas MacArthur.
-415,Knowledge idea belief stands in the way of wisdom.,J. Krishnamurthi.
-416,If we'd been born where they were born and taught what they were taught we would believe what they believe.,A church sign in Northern Ireland.
-417,My humble friend we know not how to live this life which is so short yet seek one that never ends.,Anatole France.
-418,It makes no difference as to the name of the God since love is the real God of all in the world.,Apache.
-419,We choose our joys and sorrows long before we experience them.,Kahlil Gibran.
-420,Statistically one hundred percent of the shots you don't take don't go in.,Wayne Gretsky.
-421,Christianity exceeds all other faiths in its power to deform and finally invert the mental process.,Ida White.
-422,God favors no group. Only religions do that.,Bumper Sticker.
-423,On the outskirts of every agony sits some observant fellow who points.,Virginia Woolf.
-424,The fascist state is the corporate state.,Benito Mussolini.
-425,Jehovah was not a moral god. He had all the vices and he lacked all the virtues. He generally carried out all his threats but he never faithfully kept a promise.,Robert G. Ingersoll.
-426,Guns make us powerful; butter will only make us fat.,Nazi Hermann Goering.
-427,Life is like an overlong drama through which we sit being nagged by the vague memories of having read the reviews.,John Updike.
-428,Everyone likes to say Hitler did this and Hitler did that. But the truth is Hitler did very little. He was a world class asshole but the evil actually done from the death camps to World War Two was all done by citizens who were afraid to question if what they were told by their government was the truth or not and who because they did not want to admit to themselves that they were afraid to question the government  refused to see the truth behind the Reichstag Fire refused to see the invasion by Poland was a staged fake and followed Hitler into national disaster.,Michael Rivero.
-429,Each nation knowing it has the only true religion and the only sane system of government each despising all the others each an ass and not suspecting it.,Mark Twain.
-430,All men are created equal. They are endowed by their Creator with certain unalienable rights among these are life liberty and the pursuit of happiness.,Ho Chi Minh
-431,You will kill ten of our men and we will kill one of yours  and in the end it will be you who tire of it.,Ho Chi Minh.
-432,I ain't got no quarrel with the Vietcong ... No Vietcong ever called me nigger.,Muhammad Ali
-433,I can envision a small cottage somewhere with a lot of writing paper and a dog and a fireplace and maybe enough money to give myself some Irish coffee now and then and entertain my two friends.,Richard Van de Geer
-434,If you are required to kill someone today on the promise of a political leader that someone else shall live in peace tomorrow believe me you are not only a double murderer you are a suicide too.,Katherine Anne Porter.
-435,I spent thirty-three years in the marines most of my time being a high-class muscle man for big business for Wall Street and the bankers. In short I was a racketeer for capitalism.,General Smedley Butler
-436,Over breakfast coffee we read of 40 000 American dead in Vietnam. Instead of vomiting we reach for the toast. Our morning rush through crowded streets is not to cry murder but to hit that trough before somebody else gobbles our share.,Dalton Trumbo.
-437,What difference does it make to the dead the orphans and the homeless whether the mad destruction is wrought under the name of totalitarianism or the holy name of liberty and democracy?,Mohandas Gandhi.
-438,It is not so much the suffering as the senselessness of it that is unendurable.,Nietzsche.
-439,I dream that someday the United States will be on the side of the peasants in some civil war. I dream that we will be the ones who will help the poor overthrow the rich who will talk about land reform and education and health facilities for everyone and that when the Red Cross or Amnesty International comes to count the bodies and take the testimony of women raped that our side won't be the heavies.,Richard Cohen.
-440,Throughout the world on any given day a man woman or child is likely to be displaced tortured killed or disappeared at the hands of governments or armed political groups. More often than not the United States shares the blame.,Amnesty International
-441,I am tired of fighting our chiefs are killed...it is cold and we have no blankets. The little children are freezing to death...hear me my chiefs I am tired: my heart is sick and sad. From where the sun now stands...I will fight no more forever...,Chief Joseph
-442,When great changes occur in history when great principles are involved as a rule the majority are wrong.,Eugene V. Debs.
-443,Usually when people are sad they don't do anything. They just cry over their condition. But when they get angry they bring about a change.,Malcolm X.
-444,If we could read the secret history of our enemies we should find in each man's life sorrow and suffering enough to disarm all hostility.,Henry Wadsworth Longfellow.
-445,Where it is a duty to worship the sun it is pretty sure to be a crime to examine the laws of heat.,John Morley.
-446,The Church says that the earth is flat but I know that it is round for I have seen its shadow on the moon and I have more faith in a shadow than in the Church.,Ferdinand Magellan - (disputed).
-447,A casual stroll through the lunatic asylum shows that faith does not prove anything.,Nietzsche.
-448,Humanity without religion is like a serial killer without a chainsaw.,Unknown.
-449,In all the disputes which have excited Christians against each other Rome has invariably decided in favor of that opinion which tended most towards the suppression of the human intellect and the annihilation of the reasoning powers.,Voltaire.
-450,Humanity has advanced when it has advanced not because it has been sober responsible and cautious but because it has been playful rebellious and immature.,Tom Robbins.
-451,The most detestable wickedness the most horrid cruelties and the greatest miseries that have afflicted the human race have had their origin in this thing called revelation or revealed religion.,Thomas Paine.
-452,I have seldom met an intelligent person whose views were not narrowed and distorted by religion.,James Buchanan.
-453,Fascism is capitalism in decay.,Vladimir Ilyich Lenin.
-454,Giving money and power to government is like giving whiskey and car keys to teenage boys.,P. J. O'Rourke.
-455,The police are not here to create disorder. They're here to preserve disorder.,Ex-Chicago Mayor Daley during the 1968 riots.
-456,We need a common enemy to unite us.,Condoleezza Rice
-457,I don't know that atheists should be considered citizens nor should they be considered patriots. This is one nation under God.,President George Bush
-458,Peace is over rated. Any slave can have peace. Just pick the cotton.,TheSong.
-459,Pain is certain suffering is optional.,Buddha.
-460,When did I realize I was God? Well I was praying and I suddenly realized I was talking to myself.,"Jack Gurney - ""The Ruling Class""."
-461,Could a being create the fifty billion galaxies each with two hundred billion stars then rejoice in the smell of burning goat flesh?,Ron Patterson.
-462,The United States is in no sense founded upon the Christian doctrine.,George Washington Administration Treaty.
-463,In the end we will remember not the words of our enemies but the silence of our friends.,Martin Luther King
-464,You're not to be so blind with patriotism that you can't face reality. Wrong is wrong no matter who does it or says it.,Malcolm X.
-465,The great nations have always acted like gangsters and the small nations like prostitutes.,Stanley Kubrick.
-466,The Pope!?! How many divisions has he got?,Joseph Stalin.
-467,Science has done more for the development of western civilization in one hundred years than Christianity did in eighteen hundred years.,Jeff Burroughs.
-468,It is my conviction that killing under the cloak of war is nothing but an act of murder.,Albert Einstein.
-469,Americans used to roar like lions for liberty; now we bleat like sheep for security.,Norman Vincent Peale.
-679,The best way to make children good is to make them happy.,Oscar Wilde.
-680,The minority the ruling class at present has the schools and press usually the Church as well under its thumb. This enables it to organize and sway the emotions of the masses and make its tool of them.,Albert Einstein.
-681,All civilization has from time to time become a thin crust over a volcano of revolution.,Havelock Ellis.
-682,Outside of the killings Washington has one of the lowest crime rates in the country.,Marion Barry
-683,When I told the people of Northern Ireland that I was an atheist a woman in the audience stood up and said 'Yes but is it the God of the Catholics or the God of the Protestants in whom you don't believe?',Quentin Crisp.
-684,Whatever the natural cause sin is the true cause of all earthquakes.,John Wesley.
-685,Anyone who has two shirts when someone has none is not a Christian.,Lenny Bruce.
-686,Generosity is not giving me that which I need more than you do but it is giving me that which you need more than I do.,Kahlil Gibran.
-687,You exist only in what you do.,Federico Fellini.
-688,All truth passes through three stages. First it is ridiculed. Second it is violently opposed. Third it is accepted as being self-evident.,Arthur Schopenhauer.
-689,Kindness is more important than wisdom and the recognition of this is the beginning of wisdom.,Theodore Isaac Rubin.
-690,You can't say civilizations don't advance because they kill you in a new way in each war.,Will Rogers.
-691,In order to be an immaculate member of a flock of sheep one must above all be a sheep oneself.,Albert Einstein.
-692,The church tries to save sinners but science seeks to stop their manufacture.,Elbert Hubbard.
-693,I can't embrace a male god who has persecuted female sexuality throughout the ages; and that persecution still goes on today  all over the world.,Amanda Donohoe.
-694,Any fool can make a rule and any fool will mind it.,Henry David Thoreau.
-695,Pontius Pilate was the first great censor and Jesus Christ the first great victim of censorship.,Ben Lindsay.
-696,We are what we think. All that we are arises with our thoughts. With our thoughts we make the world.,Buddha.
-697,I thought dying for your country was the worst thing that could happen to you. I think killing for your country can be a lot worse; because that's the memory that haunts.,Bob Kerry told to The New York Times.
-698,It is lamentable that to be a good patriot one must become the enemy of the rest of mankind.,Voltaire.
-699,Contraction of theological influence has at once been the best measure and the essential condition of intellectual advance.,William H. Lecky.
-700,Isn't killing people in the name of God a pretty good definition of insanity?,Arthur C. Clarke.
-701,Talent hits a target no one else can hit; Genius hits a target no one else can see.,Arthur Schopenhauer.
-702,Oh Mortal Man is there nothing you cannot be made to believe?,Adam Weishaupt
-703,There are three truths: my truth your truth and the truth.,Chinese proverb.
-704,People only see what they are prepared to see.,Ralph Waldo Emerson.
-705,Lying is done with words and also with silence.,Adrienne Rich.
-706,If a man would follow today the teachings of the Old Testament he would be a criminal. If he would follow strictly the teachings of the New he would be insane.,Robert G. Ingersoll.
-707,The man who accumulates whether money or knowledge can never be free.,J. Krishnamurthi.
-708,There is a tragic clash between truth and the world. Pure undistorted truth burns up the world.,Nikolay Berdyayev.
-709,Just drive down that road until you get blown up.,General George Patton
-710,If I could find a way to get [Saddam Hussein] out of there even putting a contract out on him ... ahh ... if the CIA still did that sort of thing . . . ahh . . . assuming it ever did . . . . . . . I would be for it.,Richard Nixon.
-711,I never advocated war except as a means of peace.,Ulysses S. Grant.
-712,If you pray for rain long enough it eventually does fall. If you pray for floodwaters to abate they eventually do. The same happens in the absence of prayers.,Steve Allen.
-713,Spiritual maturity is a lifelong process of replacing lies with truth.,Kurt Bruner.
-714,I was under medication when I made the decision to burn the tapes.,Richard Nixon.
-715,Freedom is not something that anybody can be given freedom is something people take.,James Baldwin.
-716,The public is wonderfully tolerant. It forgives everything except genius.,Oscar Wilde.
-717,Intellectuals solve problems; geniuses prevent them.,Albert Einstein.
-718,Acceptance without proof is the fundamental characteristic of Western religion rejection without proof is the fundamental characteristic of Western science.,Gary Zukav.
-719,How can you make a revolution without executions?,Lenin on hearing that the death penalty had been abolished
-720,True and false are attributes of speech not of things. And where speech is not there is neither truth nor falsehood.,Thomas Hobbes.
-721,Do you love your Creator? Love your fellow beings first.,Prophet Muhammad.
-722,Laws are silent in time of war.,Cicero.
-723,I shall be an autocrat: that's my trade. And the good Lord will forgive me: that's his.,Empress Catherine the Great.
-724,Man was born free and everywhere he is in chains.,Rousseau.
-725,Never go to sleep when your meat is on the fire.,Pueblo.
-726,A treatise upon human nature: It is not contrary to reason to prefer the destruction of the whole world to the scratching of my finger.,David Hume.
-727,You can't step twice into the same river.,Heraclitus.
-728,You should never wear your best trousers when you go out to fight for freedom and liberty.,Henrik Ibsen.
-729,Necessity never made a good bargain.,Ben Franklin.
-730,You shall find out how salt is the taste of another man's bread and how hard is the way up and down another man's stairs.,Dante.
-731,You'll never have a quiet world till you knock the patriotism out of the human race.,George Bernard Shaw.
-732,This is very true; for my words are my own and my actions are my ministers.,Charles II.
-733,Sometimes a scream is better than a thesis.,Ralph Waldo Emerson.
-734,Politics is war without bloodshed while war is politics with bloodshed.,Mao Tse Tung
-735,There are very few monsters who warrant the fear we have of them.,Andre Gide.
-736,Whoever controls the media the images controls the culture.,Allen Ginsberg.
-737,Listen or your tongue will keep you deaf.,Native American saying.
-738,One-tenth of the folks run the world. One-tenth watch them run it and the other eighty percent don't know what the hell's going on.,Jake Simmons.
-739,An empty stomach is not a good political advisor.,Albert Einstein.
-740,Religion is the end of love and honesty the beginning of confusion; faith is a colorful hope or fear the origin of folly.,Tao Te Ching.
-741,Why do we kill people who are killing people to show that killing people is wrong?,Holly Near.
 742,If you give me six lines written by the hand of the most honest of men I will find something in them which will hang him.,Cardinal Richelieu.
 874,Time wounds all heels.,Jane Ace.
 875,Beware of all enterprises that require new clothes.,Henry David Thoreau.
@@ -748,123 +686,6 @@ id,text,autor
 932,If we don't believe in freedom of expression for people we despise we don't believe in it at all.,Noam Chomsky.
 933,The only thing we never get enough of is love; and the only thing we never give enough of is love.,Henry Miller.
 934,The United States is not nearly so concerned that its acts be kept secret from its intended victims as it is that the American people not know of them.,Ramsey Clark.
-935,Nothing exists except atoms and empty space; everything else is opinion.,Democritus.
-936,Cancel the kitchen scraps for lepers and orphans! No more merciful beheadings! And call off Christmas!,The Sheriff of Nottingham.
-937,The god of the cannibals will be a cannibal of the crusaders  a crusader and of the merchants a merchant.,Ralph Waldo Emerson.
-938,The degree of one's emotion varies inversely with one's knowledge of the facts. The less you know the hotter you get.,Bertrand Russel.
-939,Knowing others is intelligence; knowing yourself is true wisdom. Mastering others is strength; mastering yourself is true power.,Lao Tzu.
-940,The believer is happy; the doubter is wise.,Hungarian Proverb.
-941,I complained that I had no shoes until I met a man who had no feet.,Persian proverb.
-942,Rules of Optimization: Rule 1: Don't do it. Rule 2 (for experts only): Don't do it yet.,M.A. Jackson.
-943,More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity.,W.A. Wulf.
-944,We should forget about small efficiencies say about 97% of the time: premature optimization is the root of all evil.,Donald Knuth.
-945,> > > Goodbye to all! Thanks for years of great fun and good > > > business! > > Suicide or MS C++? > Is there a difference? Suicide hurts only once...,Conversation on borland.public.delphi.non-technical.
-946,May God grant me the grace to one day know the truth. Until then  may he spare me the company of those who've already found it.,unknown.
-947,If you try and take a cat apart to see how it works the first thing you have in your hands is a non-working cat.,Douglas Adams.
-948,Finagle's Law of Dynamic Negatives: Anything that can go wrong  will,"at the worst possible moment.""."
-949,Many journalists have fallen for the conspiracy theory of government. I do assure you that they would produce more accurate work if they adhered to the cock-up theory.,Sir Bernard Ingham.
-950,Misunderstandings and neglect create more confusion in this world than trickery and malice. At any rate the last two are certainly much less frequent.,Goethe
-951,Genius may have its limitations but stupidity is not thus handicapped.,Elbert Hubbard.
-952,Asswhole = a complete ass,John McTaggart in bpot.
-953,Free speech is the right to yell ,Abbie Hoffman.
-954,Don't drive me crazy,"it's within walking distance.""."
-955,I have seen the future and it is just like the present only longer.,Albran.
-956,Smoking is one of the leading causes of statistics.,Fletcher Knebel.
-957,Machine. Unexpectedly I'd invented a time.,Alan Moore.
-958,If Tyranny and Oppression come to this land it will be in the guise of fighting a foreign enemy.,James Madison.
-959,In Germany they first came for the Communists  and I didn't speak up because I wasn't a Communist. Then they came for the Jews  and I didn't speak up because I wasn't a Jew. Then they came for the trade unionists  and I didn't speak up because I wasn't a trade unionist. Then they came for the Catholics  and I didn't speak up because I was a Protestant. Then they came for me - and by that time no one was left to speak up.,Pastor Martin Niem�ller.
-960,The problem with people who have no vices is that generally you can be pretty sure they're going to have some pretty annoying virtues.,Elizabeth Taylor.
-961,Talk sense to a fool and he calls you foolish.,Euripides.
-962,Invading Iraq after 9/11 was like invading Mexico after Pearl Harbor.,Richard Clarke.
-963,I've never seen anyone change his mind because of the power of a superior argument or the acquisition of new facts. But I've seen plenty of people change behavior to avoid being mocked.,Scott Adams.
-964,The years of peak mental activity are undoubtedly between the ages of four and eighteen. At four we know all the questions at eighteen all the answers.,unknown.
-965,I'm fed up to the ears with old men dreaming up wars for young men to die in.,George McGovern.
-966,The music business is a cruel and shallow money trench a long plastic hallway where thieves and pimps run free and good men die like dogs. There's also a negative side,Hunter S. Thompson.
-967,What a cruel thing is war: to separate and destroy families and friends and mar the purest joys and happiness God has granted us in this world; to fill our hearts with hatred instead of love for our neighbors and to devastate the fair face of this beautiful world.,Robert E. Lee
-968,Pardon him Theodotus; he is a barbarian and thinks that the customs of his tribe and island are the laws of nature.,George Bernard Shaw.
-969,The competent programmer is fully aware of the limited size of his own skull. He therefore approaches his task with full humility and avoids clever tricks like the plague.,Edsger W. Dijkstra
-970,Ignorance simplifies ANY problem.,R. Lucke.
-971,The chain reaction of evil,wars producing more wars
-972,Before the war is ended the war party assumes the divine right to denounce and silence all opposition to war as unpatriotic and cowardly.,Senator Robert M. La Follette.
-973,After every 'victory' you have more enemies.,Jeanette Winterson.
-974,Our children are not born to hate they are raised to hate.,Thomas della Peruta.
-975,The shepherd always tries to persuade the sheep that their interests and his own are the same.,Marie Beyle.
-976,I hate those men who would send into war youth to fight and die for them; the pride and cowardice of those old men making their wars that boys must die.,Mary Roberts Rinehart.
-977,Guard against the impostures of pretended patriotism.,George Washington.
-978,The de facto role of the US armed forces will be to keep the world safe for our economy and open to our cultural assault.,Major Ralph Peters
-979,Patriotism means to stand by the country. It does not mean to stand by the president or any other public official...,Theodore Roosevelt.
-980,The worst crimes were dared by a few willed by more and tolerated by all.,Tacitus.
-981,Military glory,that attractive rainbow
-982,Only a free and unrestrained press can effectively expose deception in government.,Hugo Black
-983,War is fear cloaked in courage.,General William Westmoreland.
-984,Because I do it with one small ship I am called a terrorist. You do it with a whole fleet and are called an emperor.,A pirate
-985,What is morally wrong can never be advantageous even when it enables you to make some gain that you believe to be to your advantage.,Marcus Tullius Cicero.
-986,Everybody's worried about stopping terrorism. Well there's a really easy way: stop participating in it.,Noam Chomsky.
-987,It is far easier to make war than peace.,Georges Clemenceau.
-988,The belief in the possibility of a short decisive war appears to be one of the most ancient and dangerous of human illusions.,Robert Lynd.
-989,Of all the enemies to public liberty war is perhaps the most to be dreaded because it comprises and develops the germ of every other.,James Madison.
-990,War doesn't make boys men it makes men dead.,Ken Gillespie.
-991,Every nation has its war party. It is not the party of democracy. It is the party of autocracy. It seeks to dominate absolutely.,Senator Robert M. La Follette.
-992,It is the job of thinking people not to be on the side of the executioners.,Albert Camus.
-993,Paramount among the responsibilities of a free press is the duty to prevent any part of the government from deceiving the people.,Hugo Black
-994,Liberty and democracy become unholy when their hands are dyed red with innocent blood.,Mahatma Gandhi.
-995,Peace is constructed not fought for.,Brent Davis.
-996,In this war - as in others - I am less interested in honoring the dead than in preventing the dead.,Butler Shaffer.
-997,It is only those who have neither fired a shot nor heard the shrieks and groans of the wounded who cry aloud for blood... War is hell.,General William Tecumseh Sherman.
-998,It is dangerous to be right when the government is wrong.,Voltaire.
-999,The worst barbarity of war is that it forces men collectively to commit acts against which individually they would revolt with their whole being.,Ellen Key.
-1000,Some men in order to prevent the supposed intentions of their adversaries have committed the most enormous cruelties.,Clearchus
-1001,[War] might be avoidable were more emphasis placed on the training to social interest less on the attainment of egotistical grandeur.,Lydia Sicher.
-1002,Look at you in war. There has never been a just one never an honorable one on the part of the instigator of the war.,Mark Twain.
-1003,Everything secret degenerates even the administration of justice.,Lord Acton.
-1004,Military justice is to justice what military music is to music.,Groucho Marx.
-1005,Violence is the last refuge of the incompetent.,Issac Asimov.
-1006,A state of war only serves as an excuse for domestic tyranny.,Aleksandr Solzhenitsyn.
-1007,War is not the continuation of politics with different means  it is the greatest mass-crime perpetrated on the community of man.,Alfred Adler.
-1008,We will not learn how to live together in peace by killing each other's children.,Jimmy Carter.
-1009,The dangerous patriot ... is a defender of militarism and its ideals of war and glory.,Colonel James A. Donovan
-1010,To jaw-jaw is always better than to war-war.,Winston Churchill.
-1011,Man has no right to kill his brother. It is no excuse that he does so in uniform: he only adds the infamy of servitude to the crime of murder.,Percy Bysshe Shelley.
-1012,Is it not a strange blindness on our part to teach publicly the techniques of warfare and to reward with medals those who prove to be the most adroit killers?,Marquis de Sade.
-1013,The cry has been that when war is declared all opposition should be hushed. A sentiment more unworthy of a free country could hardly be propagated.,William Ellery Channing.
-1014,Our government has kept us in a perpetual state of fear - kept us in a continuous stampede of patriotic fervor - with the cry of grave national emergency.,General Douglas MacArthur.
-1015,The internet is not something you just dump something on. It's not a truck. It's a series of tubes!,Sen. Ted Stevens
-1016,Elegance is not a dispensable luxury but a factor that decides between success and failure.,Edsger Dijkstra.
-1017,It's wonderful to be here in the great state of Chicago.,Dan Quayle.
-1018,If Al Gore invented the Internet I invented spell check.,Dan Quayle.
-1019,My current job sucks so hard black holes are going green with envy.,Liz Kimber
-1020,I was playing poker the other night... with Tarot cards. I got a full house and 4 people died.,Steven Wright.
-1021,'Everything you say is boring and incomprehensible' she said  'but that alone doesn't make it true.',Franz Kafka.
-1022,Should array indices start at 0 or 1? My compromise of 0.5 was rejected without I thought proper consideration.,Stan Kelly-Bootle.
-1023,If electricity comes from electrons does that mean that morality comes from morons?,Unknown.
-1024,The company doesn't tell me what to say and I don't tell them where to stick it.,Unknown.
-1025,The only way to combat criminals is by not voting for them.,Dayton Allen.
-1026,A camel is a horse designed by a committee,Unknown.
-1027,I'm not under the alkafluence of inkahol that some thinkle peep I am. It's just the drunker I sit here the longer I get.,Unknown.
-1028,Sex is like air. It's only a big deal if you can't get any.,Unknown.
-1029,Support your local Search and Rescue unit,"get lost."""
-1030,A great many people think they are thinking when they are merely rearranging their prejudices.,William James.
-1031,The whole problem with the world is that fools and fanatics are always so certain of themselves but wiser people so full of doubts.,Bertrand Russell.
-1032,The bureaucracy is expanding to meet the needs of an expanding bureaucracy.,Unknown.
-1033,I took a course in speed reading and was able to read War and Peace in twenty minutes. It's about Russia.,Woody Allen.
-1034,Jesus may love you but I think you're garbage wrapped in skin.,Michael O'Donohugh.
-1035,Ah you know the type. They like to blame it all on the Jews or the Blacks 'cause if they couldn't they'd have to wake up to the fact that life's one big scary glorious complex and ultimately unfathomable crapshoot,and the only reason THEY
-1036,Subtlety is the art of saying what you think and getting out of the way before it is understood.,Unknown.
-1037,Tact is the ability to tell a man he has an open mind when he has a hole in his head.,Unknown.
-1038,The study of non-linear physics is like the study of non-elephant biology.,Unknown.
-1039,I do not have a body I am a body.,Unknown.
-1040,If people are good only because they fear punishment and hope for reward then we are a sorry lot indeed.,Albert Einstein.
-1041,A radioactive cat has eighteen half-lives.,Unknown.
-1042,Clothes make the man. Naked people have little or no influence on society.,Mark Twain.
-1043,I doubt therefore I might be.,Unknown.
-1044,If you believe in telekinesis raise my hand.,Unknown.
-1045,Light thinks it travels faster than anything but it is wrong. No matter how fast light travels it finds the darkness has always got there first and is waiting for it.,Terry Pratchett (Reaper Man).
-1046,If you take something apart and put it back together again enough times you will eventually have enough parts left over to build a second one.,The law of inanimate reproduction.
-1047,I have spoken many a word therefore it is fact.,Eric the Verbose.
-1048,Puritanism: The haunting fear that someone somewhere may be happy.,H. L. Mencken.
-1049,Roses are #FF0000 Violets are #0000FF All my base are belong to you!,Geek Valentine T-shirt at ThinkGeek.
-743,Only a fool tests the depth of the water with both feet.,African proverb.
-744,Democracy is the recurrent suspicion that more than half of the people are right more than half of the time.,Elwyn B. White.
 745,The more I study religions the more I am convinced that man never worshipped anything but himself.,Sir R. F. Burton.
 746,We are ensnared by the wisdom of the serpent; we are set free by the foolishness of God.,Saint Augustine.
 747,We live in our desires rather than in our achievements.,George Moore.
@@ -1046,6 +867,371 @@ id,text,autor
 676,All warfare is based on deception.,Sun tzu.
 677,Nothing brings people together more than mutual hatred.,Henry Rollins.
 678,Just as a picture is drawn by an artist surroundings are created by the activities of the mind.,Buddha.
+935,Nothing exists except atoms and empty space; everything else is opinion.,Democritus.
+936,Cancel the kitchen scraps for lepers and orphans! No more merciful beheadings! And call off Christmas!,The Sheriff of Nottingham.
+937,The god of the cannibals will be a cannibal of the crusaders  a crusader and of the merchants a merchant.,Ralph Waldo Emerson.
+938,The degree of one's emotion varies inversely with one's knowledge of the facts. The less you know the hotter you get.,Bertrand Russel.
+939,Knowing others is intelligence; knowing yourself is true wisdom. Mastering others is strength; mastering yourself is true power.,Lao Tzu.
+940,The believer is happy; the doubter is wise.,Hungarian Proverb.
+941,I complained that I had no shoes until I met a man who had no feet.,Persian proverb.
+942,Rules of Optimization: Rule 1: Don't do it. Rule 2 (for experts only): Don't do it yet.,M.A. Jackson.
+943,More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity.,W.A. Wulf.
+944,We should forget about small efficiencies say about 97% of the time: premature optimization is the root of all evil.,Donald Knuth.
+945,> > > Goodbye to all! Thanks for years of great fun and good > > > business! > > Suicide or MS C++? > Is there a difference? Suicide hurts only once...,Conversation on borland.public.delphi.non-technical.
+946,May God grant me the grace to one day know the truth. Until then  may he spare me the company of those who've already found it.,unknown.
+947,If you try and take a cat apart to see how it works the first thing you have in your hands is a non-working cat.,Douglas Adams.
+948,Finagle's Law of Dynamic Negatives: Anything that can go wrong  will,"at the worst possible moment.""."
+949,Many journalists have fallen for the conspiracy theory of government. I do assure you that they would produce more accurate work if they adhered to the cock-up theory.,Sir Bernard Ingham.
+950,Misunderstandings and neglect create more confusion in this world than trickery and malice. At any rate the last two are certainly much less frequent.,Goethe
+951,Genius may have its limitations but stupidity is not thus handicapped.,Elbert Hubbard.
+952,Asswhole = a complete ass,John McTaggart in bpot.
+953,Free speech is the right to yell ,Abbie Hoffman.
+954,Don't drive me crazy,"it's within walking distance.""."
+955,I have seen the future and it is just like the present only longer.,Albran.
+956,Smoking is one of the leading causes of statistics.,Fletcher Knebel.
+957,Machine. Unexpectedly I'd invented a time.,Alan Moore.
+958,If Tyranny and Oppression come to this land it will be in the guise of fighting a foreign enemy.,James Madison.
+959,In Germany they first came for the Communists  and I didn't speak up because I wasn't a Communist. Then they came for the Jews  and I didn't speak up because I wasn't a Jew. Then they came for the trade unionists  and I didn't speak up because I wasn't a trade unionist. Then they came for the Catholics  and I didn't speak up because I was a Protestant. Then they came for me - and by that time no one was left to speak up.,Pastor Martin Niem�ller.
+960,The problem with people who have no vices is that generally you can be pretty sure they're going to have some pretty annoying virtues.,Elizabeth Taylor.
+961,Talk sense to a fool and he calls you foolish.,Euripides.
+962,Invading Iraq after 9/11 was like invading Mexico after Pearl Harbor.,Richard Clarke.
+963,I've never seen anyone change his mind because of the power of a superior argument or the acquisition of new facts. But I've seen plenty of people change behavior to avoid being mocked.,Scott Adams.
+964,The years of peak mental activity are undoubtedly between the ages of four and eighteen. At four we know all the questions at eighteen all the answers.,unknown.
+965,I'm fed up to the ears with old men dreaming up wars for young men to die in.,George McGovern.
+966,The music business is a cruel and shallow money trench a long plastic hallway where thieves and pimps run free and good men die like dogs. There's also a negative side,Hunter S. Thompson.
+967,What a cruel thing is war: to separate and destroy families and friends and mar the purest joys and happiness God has granted us in this world; to fill our hearts with hatred instead of love for our neighbors and to devastate the fair face of this beautiful world.,Robert E. Lee
+968,Pardon him Theodotus; he is a barbarian and thinks that the customs of his tribe and island are the laws of nature.,George Bernard Shaw.
+969,The competent programmer is fully aware of the limited size of his own skull. He therefore approaches his task with full humility and avoids clever tricks like the plague.,Edsger W. Dijkstra
+970,Ignorance simplifies ANY problem.,R. Lucke.
+971,The chain reaction of evil,wars producing more wars
+972,Before the war is ended the war party assumes the divine right to denounce and silence all opposition to war as unpatriotic and cowardly.,Senator Robert M. La Follette.
+973,After every 'victory' you have more enemies.,Jeanette Winterson.
+974,Our children are not born to hate they are raised to hate.,Thomas della Peruta.
+975,The shepherd always tries to persuade the sheep that their interests and his own are the same.,Marie Beyle.
+976,I hate those men who would send into war youth to fight and die for them; the pride and cowardice of those old men making their wars that boys must die.,Mary Roberts Rinehart.
+977,Guard against the impostures of pretended patriotism.,George Washington.
+978,The de facto role of the US armed forces will be to keep the world safe for our economy and open to our cultural assault.,Major Ralph Peters
+979,Patriotism means to stand by the country. It does not mean to stand by the president or any other public official...,Theodore Roosevelt.
+980,The worst crimes were dared by a few willed by more and tolerated by all.,Tacitus.
+981,Military glory,that attractive rainbow
+982,Only a free and unrestrained press can effectively expose deception in government.,Hugo Black
+983,War is fear cloaked in courage.,General William Westmoreland.
+984,Because I do it with one small ship I am called a terrorist. You do it with a whole fleet and are called an emperor.,A pirate
+985,What is morally wrong can never be advantageous even when it enables you to make some gain that you believe to be to your advantage.,Marcus Tullius Cicero.
+986,Everybody's worried about stopping terrorism. Well there's a really easy way: stop participating in it.,Noam Chomsky.
+987,It is far easier to make war than peace.,Georges Clemenceau.
+988,The belief in the possibility of a short decisive war appears to be one of the most ancient and dangerous of human illusions.,Robert Lynd.
+989,Of all the enemies to public liberty war is perhaps the most to be dreaded because it comprises and develops the germ of every other.,James Madison.
+990,War doesn't make boys men it makes men dead.,Ken Gillespie.
+991,Every nation has its war party. It is not the party of democracy. It is the party of autocracy. It seeks to dominate absolutely.,Senator Robert M. La Follette.
+992,It is the job of thinking people not to be on the side of the executioners.,Albert Camus.
+993,Paramount among the responsibilities of a free press is the duty to prevent any part of the government from deceiving the people.,Hugo Black
+994,Liberty and democracy become unholy when their hands are dyed red with innocent blood.,Mahatma Gandhi.
+995,Peace is constructed not fought for.,Brent Davis.
+996,In this war - as in others - I am less interested in honoring the dead than in preventing the dead.,Butler Shaffer.
+997,It is only those who have neither fired a shot nor heard the shrieks and groans of the wounded who cry aloud for blood... War is hell.,General William Tecumseh Sherman.
+998,It is dangerous to be right when the government is wrong.,Voltaire.
+999,The worst barbarity of war is that it forces men collectively to commit acts against which individually they would revolt with their whole being.,Ellen Key.
+1000,Some men in order to prevent the supposed intentions of their adversaries have committed the most enormous cruelties.,Clearchus
+1001,[War] might be avoidable were more emphasis placed on the training to social interest less on the attainment of egotistical grandeur.,Lydia Sicher.
+1002,Look at you in war. There has never been a just one never an honorable one on the part of the instigator of the war.,Mark Twain.
+1003,Everything secret degenerates even the administration of justice.,Lord Acton.
+1004,Military justice is to justice what military music is to music.,Groucho Marx.
+1005,Violence is the last refuge of the incompetent.,Issac Asimov.
+1006,A state of war only serves as an excuse for domestic tyranny.,Aleksandr Solzhenitsyn.
+1007,War is not the continuation of politics with different means  it is the greatest mass-crime perpetrated on the community of man.,Alfred Adler.
+1008,We will not learn how to live together in peace by killing each other's children.,Jimmy Carter.
+1009,The dangerous patriot ... is a defender of militarism and its ideals of war and glory.,Colonel James A. Donovan
+1010,To jaw-jaw is always better than to war-war.,Winston Churchill.
+1011,Man has no right to kill his brother. It is no excuse that he does so in uniform: he only adds the infamy of servitude to the crime of murder.,Percy Bysshe Shelley.
+1012,Is it not a strange blindness on our part to teach publicly the techniques of warfare and to reward with medals those who prove to be the most adroit killers?,Marquis de Sade.
+1013,The cry has been that when war is declared all opposition should be hushed. A sentiment more unworthy of a free country could hardly be propagated.,William Ellery Channing.
+1014,Our government has kept us in a perpetual state of fear - kept us in a continuous stampede of patriotic fervor - with the cry of grave national emergency.,General Douglas MacArthur.
+1015,The internet is not something you just dump something on. It's not a truck. It's a series of tubes!,Sen. Ted Stevens
+1016,Elegance is not a dispensable luxury but a factor that decides between success and failure.,Edsger Dijkstra.
+1017,It's wonderful to be here in the great state of Chicago.,Dan Quayle.
+1018,If Al Gore invented the Internet I invented spell check.,Dan Quayle.
+1019,My current job sucks so hard black holes are going green with envy.,Liz Kimber
+1020,I was playing poker the other night... with Tarot cards. I got a full house and 4 people died.,Steven Wright.
+1021,'Everything you say is boring and incomprehensible' she said  'but that alone doesn't make it true.',Franz Kafka.
+1022,Should array indices start at 0 or 1? My compromise of 0.5 was rejected without I thought proper consideration.,Stan Kelly-Bootle.
+1023,If electricity comes from electrons does that mean that morality comes from morons?,Unknown.
+1024,The company doesn't tell me what to say and I don't tell them where to stick it.,Unknown.
+1025,The only way to combat criminals is by not voting for them.,Dayton Allen.
+1026,A camel is a horse designed by a committee,Unknown.
+1027,I'm not under the alkafluence of inkahol that some thinkle peep I am. It's just the drunker I sit here the longer I get.,Unknown.
+1028,Sex is like air. It's only a big deal if you can't get any.,Unknown.
+1029,Support your local Search and Rescue unit,"get lost."""
+1030,A great many people think they are thinking when they are merely rearranging their prejudices.,William James.
+1031,The whole problem with the world is that fools and fanatics are always so certain of themselves but wiser people so full of doubts.,Bertrand Russell.
+1032,The bureaucracy is expanding to meet the needs of an expanding bureaucracy.,Unknown.
+1033,I took a course in speed reading and was able to read War and Peace in twenty minutes. It's about Russia.,Woody Allen.
+1034,Jesus may love you but I think you're garbage wrapped in skin.,Michael O'Donohugh.
+1035,Ah you know the type. They like to blame it all on the Jews or the Blacks 'cause if they couldn't they'd have to wake up to the fact that life's one big scary glorious complex and ultimately unfathomable crapshoot,and the only reason THEY
+1036,Subtlety is the art of saying what you think and getting out of the way before it is understood.,Unknown.
+1037,Tact is the ability to tell a man he has an open mind when he has a hole in his head.,Unknown.
+1038,The study of non-linear physics is like the study of non-elephant biology.,Unknown.
+1039,I do not have a body I am a body.,Unknown.
+1040,If people are good only because they fear punishment and hope for reward then we are a sorry lot indeed.,Albert Einstein.
+1041,A radioactive cat has eighteen half-lives.,Unknown.
+1042,Clothes make the man. Naked people have little or no influence on society.,Mark Twain.
+1043,I doubt therefore I might be.,Unknown.
+1044,If you believe in telekinesis raise my hand.,Unknown.
+1045,Light thinks it travels faster than anything but it is wrong. No matter how fast light travels it finds the darkness has always got there first and is waiting for it.,Terry Pratchett (Reaper Man).
+1046,If you take something apart and put it back together again enough times you will eventually have enough parts left over to build a second one.,The law of inanimate reproduction.
+1047,I have spoken many a word therefore it is fact.,Eric the Verbose.
+1048,Puritanism: The haunting fear that someone somewhere may be happy.,H. L. Mencken.
+1049,Roses are #FF0000 Violets are #0000FF All my base are belong to you!,Geek Valentine T-shirt at ThinkGeek.
+743,Only a fool tests the depth of the water with both feet.,African proverb.
+744,Democracy is the recurrent suspicion that more than half of the people are right more than half of the time.,Elwyn B. White.
+680,The minority the ruling class at present has the schools and press usually the Church as well under its thumb. This enables it to organize and sway the emotions of the masses and make its tool of them.,Albert Einstein.
+681,All civilization has from time to time become a thin crust over a volcano of revolution.,Havelock Ellis.
+682,Outside of the killings Washington has one of the lowest crime rates in the country.,Marion Barry
+683,When I told the people of Northern Ireland that I was an atheist a woman in the audience stood up and said 'Yes but is it the God of the Catholics or the God of the Protestants in whom you don't believe?',Quentin Crisp.
+684,Whatever the natural cause sin is the true cause of all earthquakes.,John Wesley.
+685,Anyone who has two shirts when someone has none is not a Christian.,Lenny Bruce.
+686,Generosity is not giving me that which I need more than you do but it is giving me that which you need more than I do.,Kahlil Gibran.
+687,You exist only in what you do.,Federico Fellini.
+688,All truth passes through three stages. First it is ridiculed. Second it is violently opposed. Third it is accepted as being self-evident.,Arthur Schopenhauer.
+689,Kindness is more important than wisdom and the recognition of this is the beginning of wisdom.,Theodore Isaac Rubin.
+690,You can't say civilizations don't advance because they kill you in a new way in each war.,Will Rogers.
+691,In order to be an immaculate member of a flock of sheep one must above all be a sheep oneself.,Albert Einstein.
+692,The church tries to save sinners but science seeks to stop their manufacture.,Elbert Hubbard.
+693,I can't embrace a male god who has persecuted female sexuality throughout the ages; and that persecution still goes on today  all over the world.,Amanda Donohoe.
+694,Any fool can make a rule and any fool will mind it.,Henry David Thoreau.
+695,Pontius Pilate was the first great censor and Jesus Christ the first great victim of censorship.,Ben Lindsay.
+696,We are what we think. All that we are arises with our thoughts. With our thoughts we make the world.,Buddha.
+697,I thought dying for your country was the worst thing that could happen to you. I think killing for your country can be a lot worse; because that's the memory that haunts.,Bob Kerry told to The New York Times.
+698,It is lamentable that to be a good patriot one must become the enemy of the rest of mankind.,Voltaire.
+699,Contraction of theological influence has at once been the best measure and the essential condition of intellectual advance.,William H. Lecky.
+700,Isn't killing people in the name of God a pretty good definition of insanity?,Arthur C. Clarke.
+701,Talent hits a target no one else can hit; Genius hits a target no one else can see.,Arthur Schopenhauer.
+702,Oh Mortal Man is there nothing you cannot be made to believe?,Adam Weishaupt
+703,There are three truths: my truth your truth and the truth.,Chinese proverb.
+704,People only see what they are prepared to see.,Ralph Waldo Emerson.
+705,Lying is done with words and also with silence.,Adrienne Rich.
+706,If a man would follow today the teachings of the Old Testament he would be a criminal. If he would follow strictly the teachings of the New he would be insane.,Robert G. Ingersoll.
+707,The man who accumulates whether money or knowledge can never be free.,J. Krishnamurthi.
+708,There is a tragic clash between truth and the world. Pure undistorted truth burns up the world.,Nikolay Berdyayev.
+709,Just drive down that road until you get blown up.,General George Patton
+710,If I could find a way to get [Saddam Hussein] out of there even putting a contract out on him ... ahh ... if the CIA still did that sort of thing . . . ahh . . . assuming it ever did . . . . . . . I would be for it.,Richard Nixon.
+711,I never advocated war except as a means of peace.,Ulysses S. Grant.
+712,If you pray for rain long enough it eventually does fall. If you pray for floodwaters to abate they eventually do. The same happens in the absence of prayers.,Steve Allen.
+713,Spiritual maturity is a lifelong process of replacing lies with truth.,Kurt Bruner.
+714,I was under medication when I made the decision to burn the tapes.,Richard Nixon.
+715,Freedom is not something that anybody can be given freedom is something people take.,James Baldwin.
+716,The public is wonderfully tolerant. It forgives everything except genius.,Oscar Wilde.
+717,Intellectuals solve problems; geniuses prevent them.,Albert Einstein.
+718,Acceptance without proof is the fundamental characteristic of Western religion rejection without proof is the fundamental characteristic of Western science.,Gary Zukav.
+719,How can you make a revolution without executions?,Lenin on hearing that the death penalty had been abolished
+720,True and false are attributes of speech not of things. And where speech is not there is neither truth nor falsehood.,Thomas Hobbes.
+721,Do you love your Creator? Love your fellow beings first.,Prophet Muhammad.
+722,Laws are silent in time of war.,Cicero.
+723,I shall be an autocrat: that's my trade. And the good Lord will forgive me: that's his.,Empress Catherine the Great.
+724,Man was born free and everywhere he is in chains.,Rousseau.
+725,Never go to sleep when your meat is on the fire.,Pueblo.
+726,A treatise upon human nature: It is not contrary to reason to prefer the destruction of the whole world to the scratching of my finger.,David Hume.
+727,You can't step twice into the same river.,Heraclitus.
+728,You should never wear your best trousers when you go out to fight for freedom and liberty.,Henrik Ibsen.
+729,Necessity never made a good bargain.,Ben Franklin.
+730,You shall find out how salt is the taste of another man's bread and how hard is the way up and down another man's stairs.,Dante.
+731,You'll never have a quiet world till you knock the patriotism out of the human race.,George Bernard Shaw.
+732,This is very true; for my words are my own and my actions are my ministers.,Charles II.
+733,Sometimes a scream is better than a thesis.,Ralph Waldo Emerson.
+734,Politics is war without bloodshed while war is politics with bloodshed.,Mao Tse Tung
+735,There are very few monsters who warrant the fear we have of them.,Andre Gide.
+736,Whoever controls the media the images controls the culture.,Allen Ginsberg.
+737,Listen or your tongue will keep you deaf.,Native American saying.
+738,One-tenth of the folks run the world. One-tenth watch them run it and the other eighty percent don't know what the hell's going on.,Jake Simmons.
+739,An empty stomach is not a good political advisor.,Albert Einstein.
+740,Religion is the end of love and honesty the beginning of confusion; faith is a colorful hope or fear the origin of folly.,Tao Te Ching.
+741,Why do we kill people who are killing people to show that killing people is wrong?,Holly Near.
+1162,It was God who made me so beautiful. If I weren't then I'd be a teacher.,Linda Evangelista..
+1163,The secret of a good sermon is to have a good beginning and a good ending then having the two as close together as possible.,George Burns..
+1164,I would have made a good Pope.,Richard Nixon..
+1165,I was raised in the Jewish tradition taught never to marry a Gentile woman shave on a Saturday night and most especially  never to shave a Gentile woman on a Saturday night.,Woody Allen..
+1166,God is love but get it in writing.,Gypsy Rose Lee..
+1167,I don't pray because I don't want to bore God.,Orson Welles..
+1168,As the poet said 'Only God can make a tree ' probably because it's so hard to figure out how to get the bark on.,Woody Allen..
+1169,I have four children which is not bad considering I'm not a Catholic.,Peter Ustinov..
+1170,I hear Glenn Hoddle has found God. That must have been one hell of a pass.,Bob Davies..
+1171,And God said 'Let there be light' and there was light but the Electricity Board said He would have to wait until Thursday to be connected.,Spike Milligan..
+1172,No mention of God. They keep Him up their sleeves for as long as they can vicars do. They know it puts people off.,Alan Bennett..
+1173,I'm Jewish. I don't work out. If God had wanted us to bend over  He would have put diamonds on the floor.,Joan Rivers..
+1174,There is a charm about the forbidden that makes it unspeakably diserable.,Mark Twain..
+1175,Always go to other people's funerals otherwise they won't come to yours.,Yogi Berra..
+1176,Death is a low chemical trick played on everybody except sequoia trees.,JJ Furnas..
+1177,Dying is a very dull dreary affair. And my advice to you is to have nothing whatever to do with it.,W. Somerset Maugham..
+1178,Early to rise and early to bed. Makes a male healthy wealthy and dead.,James Thurber..
+1179,Everybody wants to go to heaven but nobody wants to die.,Joe Louis..
+1180,He had decided to live forever or die in the attempt.,Joseph Heller..
+1181,I am ready to meet my Maker. Whether my Maker is prepared for the great ordeal of meeting me is another matter.,Winston Churchill..
+1182,Death is one of the few things that can be done as easily lying down. The difference between sex and death is that with death you can do it alone and no one is going to make fun of you.,Woody Allen..
+1183,All our knowledge merely helps us to die a more painful death than animals that know nothing.,Maurice Maeterlinck..
+1184,A single death is a tragedy a million deaths is a statistic.,Joseph Stalin..
+1185,Eternal nothingness is fine if you happen to be dressed for it.,Woody Allen..
+1186,Everything is drive-through. In California they even have a burial service called Jump-In-The-Box.,Wil Shriner..
+1187,In this world nothing is certain but death and taxes.,Benjamin Franklin..
+1188,The fear of death is the most unjustified of all fears for there's no risk of accident for someone who's dead.,Albert Einstein..
+1189,I wouldn't mind dying - it's the business of having to stay dead that scares the shit out of me.,R. Geis..
+1190,It's impossible to experience one's death objectively and still carry a tune.,Woody Allen..
+1191,For if he like a madman lived At least he like a wise one died.,Cervantes..
+1192,Death does not concern us because as long as we exist death is not here. And when it does come we no longer exist.,Epicurus..
+1193,Am I lightheaded because I'm not dead or because I'm still alive?,Heidi Sandige..
+1194,A low voter turnout is an indication of fewer people going to the polls.,George W. Bush.
+1195,I was raised in the West. The west of Texas. It's pretty close to California. In more ways than Washington D.C. is close to California.,George W. Bush.
+1196,Rarely is the question asked: Is our children learning?,George W. Bush.
+1197,What I am against is quotas. I am against hard quotas quotas they basically delineate based upon whatever. However they delineate quotas I think vulcanize society. So I don't know how that fits into what everybody else is saying their relative positions but that's my position.,George W. Bush.
+1198,It's clearly a budget. It's got a lot of numbers in it.,George W. Bush.
+1199,One word sums up probably the responsibility of any Governor  and that one word is 'to be prepared'.,George W. Bush.
+1200,If you're sick and tired of the politics of cynicism and polls and principles come and join this campaign.,George W. Bush.
+1201,We must all hear the universal call to like your neighbor like you like to be liked yourself.,George W. Bush.
+1202,The most important job is not to be Governor or First Lady in my case.,George W. Bush.
+1203,If people can judge me on the company I keep they would judge me with keeping really good company with Laura.,George W. Bush.
+1204,You'll notice that Nancy Reagan never drinks water when Ronnie speaks.,Robin Williams..
+1205,I'm not going to have some reporters pawing through our papers. We are the president.,Hillary Clinton..
+1206,A committee is a group of people who individually can do nothing but together can decide that nothing can be done.,Fred Allen..
+1207,Richard Nixon is a no good lying bastard. He can lie out of both sides of his mouth at the same time and if he ever caught himself telling the truth he'd lie just to keep his hand in.,Harry S. Truman..
+1208,Behind every successful man is a woman behind her is his wife.,Groucho Marx.
+1209,Marry me and I'll never look at another horse!,Groucho Marx.
+1210,A woman is an occasional pleasure but a cigar is always a smoke.,Groucho Marx.
+1211,Outside of a dog a book is man's best friend. Inside of a dog  it's too dark to read.,Groucho Marx.
+1212,Why was I with her? She reminds me of you. In fact she reminds me more of you than you do!,Groucho Marx.
+1213,Women should be obscene and not heard.,Groucho Marx.
+1214,Either he's dead or my watch has stopped.,Groucho Marx.
+1215,I don't care to belong to a club that accepts people like me as members.,Groucho Marx.
+1216,I must confess I was born at a very early age.,Groucho Marx.
+1217,I have had a perfectly wonderful evening but this wasn't it.,Groucho Marx.
+1218,Room service? Send up a larger room.,Groucho Marx.
+1219,I never forget a face but in your case I'll be glad to make an exception.,Groucho Marx.
+1220,A man's only as old as the woman he feels.,Groucho Marx.
+1221,One morning I shot a bear in my pajamas. How it got into my pajamas I'll never know.,Groucho Marx.
+1222,If I held you any closer I would be on the other side of you.,Groucho Marx.
+1223,I was married by a judge. I should have asked for a jury.,Groucho Marx.
+1224,Who are you going to believe me or your own eyes?,Groucho Marx.
+1225,Quote me as saying I was mis-quoted.,Groucho Marx.
+1226,A child of five could understand this. Fetch me a child of five.,Groucho Marx.
+1227,Those are my principles. If you don't like them I have others.,Groucho Marx.
+1228,Police arrested two kids yesterday one was drinking battery acid the other was eating fireworks. They charged one and let the other one off.,Tommy Cooper.
+1229,A blind bloke walks into a shop with a guide dog. He picks the Dog up and starts swinging it around his head. Alarmed a shop assistant calls out: 'Can I help sir?' 'No thanks ' says the blind bloke. 'Just looking.',Tommy Cooper.
+1230,It's strange isn't it. You stand in the middle of a library and go 'aaaaagghhhh' and everyone just stares at you. But you do the same thing on an aeroplane and everyone joins in.,Tommy Cooper.
+1231,So I was getting into my car and this bloke says to me ,Tommy Cooper.
+1232,You know somebody actually complimented me on my driving today. They left a little note on the windscreen it said 'Parking Fine.',Tommy Cooper.
+1233,So I went to the dentist. He said ,Tommy Cooper.
+1234,So I rang up a local building firm I said 'I want a skip outside my house.' He said 'I'm not stopping you.',Tommy Cooper.
+1235,So I was in my car and I was driving along and my boss rang up and he said 'You've been promoted'. And I swerved. And then he rang up a second time and said 'You've been promoted again'. And I swerved again. He rang up a third time and said 'You're managing director.' And I went into a tree. And a policeman came up and said 'What happened to you?' And I Said 'I careered off the road.',Tommy Cooper.
+1236,Don't knock masturbation it's sex with someone I love .,Woody Allen
+1237,A fast word about oral contraception. I asked a girl to go to bed with me she said 'no'.,Woody Allen.
+1238,It's not that I'm afraid to die I just don't want to be there when it happens.,Woody Allen
+1239,There are worse things in life than death. Have you ever spent an evening with an insurance salesman?,Woody Allen.
+1240,Money is better than poverty if only for financial reasons.,Woody Allen
+1241,I failed to make the chess team because of my height.,Woody Allen.
+1242,I believe that sex is a beautiful thing between two people. Between five it's fantastic.,Woody Allen.
+1243,Love is the answer - but while you're waiting for the answer sex raises some pretty good questions.,Woody Allen.
+1244,I'm very proud of my gold pocket watch. My grandfather on his deathbed sold me this watch.,Woody Allen.
+1245,I'm always amazed to hear of air crash victims so badly mutilated that they have to be identified by their dental records. What I can't understand is if they don't know who you are how do they know who your dentist is?,Paul Merton..
+1246,The Stones I love the Stones. I watch them whenever I can. Fred  Barney...,Steven Wright..
+1247,First you forget names then you forget faces. Next you forget to pull your zipper up and finally you forget to pull it down.,George Burns..
+1248,The pen is mightier than the sword and considerably easier to write with.,Marty Feldman..
+1249,We had gay burglars the other night. They broke in and rearranged the furniture.,Robin Williams..
+1250,If toast always lands butter-side down and cats always land on their feet what happens if you strap toast on the back of a cat and drop it?,Steven Wright..
+1251,I'm desperately trying to figure out why kamikaze pilots wore helmets.,Dave Edison..
+1252,Did you ever walk in a room and forget why you walked in? I think that's how dogs spend their lives.,Sue Murphy..
+1253,A sure cure for seasickness is to sit under a tree.,Spike Milligan..
+1254,Why don't they make the whole plane out of that black box stuff.,Steven Wright..
+1255,I once heard two ladies going on and on about the pains of childbirth and how men don't seem to know what real pain is. I asked if either of them ever got themselves caught in a zipper.,Emo Philips..
+1256,My neighbour asked if he could use my lawnmower and I told him of course he could so long as he didn't take it out of my garden.,Eric Morecambe..
+1257,You're about as useful as a one-legged man at an arse kicking contest.,Rowan Atkinson..
+1258,He managed to stupid himself right into the White House.,Charles Appel about George W. Bush.
+1259,Reality is that which when you stop believing in it doesn't go away.,Philip K. Dick..
+1260,Believe those who are seeking the truth. Doubt those who find it.,Andr� Gide.
+1261,Just because bulldozers are used to build highways doesn't mean bulldozers are the best way to travel on a highway.,Danny Thorpe in borland.public.delphi.non-technical.
+1262,Write a wise word and your name will live forever.,Anonymous.
+1263,To the Honourable Member opposite I say when he goes home tonight may his mother run out from under the porch and bark at him,John G. Diefenbaker.
+1264,Devlin's First Law - Buyer beware: in the hands of a charlatan  mathematics can be used to make a vacuous argument look impressive. Devlin's Second Law - So can PowerPoint.,Keith Devlin.
+1265,Gigerenzer's Law of Indispensable Ignorance: The world cannot function without partially ignorant people.,Gerd Gigerenzer.
+1266,Lohr's Law: The future is merely the past with a twist - and better tools.,Steve Lohr.
+1267,Raymond's Law of Software: Given a sufficiently large number of eyeballs all bugs are shallow.,Eric S. Raymond.
+1268,Barab�si's Law of Programming: Program development ends when the program does what you expect it to do - whether it is correct or not.,Albert-L�szl� Barab�si.
+1269,Anyone who starts a sentence 'With all due respect ...' is about to insult you.,unknown.
+1270,The only one listening to both sides of an argument is the neighbor in the next apartment,unknown.
+1271,Cholesterol is your natural defence against excessive circulation of blood which can carry venoms poisons and other toxins around your body.,Michael Warner
+1272,Mit der Dummheit k�mpfen G�tter selbst vergebens,Friedrich von Schiller.
+1273,There Ought to be Limits to Freedom!,George W. Bush
+1274,We are Dyslexia of Borg. Fusistance is retile. Your ass will be laminated.,unknown.
+1275,I Can't Think Of Anything Reasonable To Counter Your Argument Or Don't Have The Least Inkling Of The Subject So I Will Resort To Name Calling And Hope I Can Get Away With It.,Ken de Camargo
+1276,I don't approve of political jokes... I've seen too many of them get elected.,unknown.
+1277,I plan to live forever. So far so good.,Rob C. Claffie in borland.public.off-topic.
+1278,Millions long for immortality who do not know what to do with themselves on a rainy Sunday afternoon.,Susan Ertz.
+1279,If the United Nations once admits that international disputes can be settled by using force then we will have destroyed the foundation of the organization and our best hope of establishing a world order.,Dwight D. Eisenhower.
+1280,Sex is like a Chinese dinner. It isn't over until everyone gets their cookies.,"from the movie ""Outside Providence""."
+1281,A picture is worth a thousand words (which is why it takes a thousand times longer to load...),Eric Tilton
+1282,1001 words say more than one picture,Chinese proverb.
+1283,There is no idea so simple and powerful that you can't get zillions of people to misunderstand it.,Alan Kay.
+1284,The purpose of computing is not numbers but insight.,Richard Hamming.
+1285,They have computers and they may have other weapons of mass destruction.,Janet Reno
+1286,Imagine if every Thursday your shoes exploded if you tied them the usual way. This happens to us all the time with computers  and nobody thinks of complaining.,Jeff Raskin.
+1287,Programming is like sex: one mistake and you have to support it for the rest of your life.,Michael Sinz.
+1288,Linux is like living in a teepee. No Windows no Gates Apache in house.,Usenet signature.
+1289,DOS Computers manufactured by companies such as IBM Compaq  Tandy and millions of others are by far the most popular with about 70 million machines in use worldwide. Macintosh fans on the other hand may note that cockroaches are far more numerous than humans and that numbers alone do not denote a higher life form.,New York Times
+1290,Politics is the art of looking for trouble finding it everywhere diagnosing it incorrectly and applying the wrong remedies.,Groucho Marx.
+1291,Momma always said life was like a box of chocolates. You never know what you're gonna get.,Forest Gump.
+1292,I invented the term Object-Oriented and I can tell you I did not have C++ in mind.,Alan Kay.
+1293,Reality is merely an illusion albeit a very persistent one.,Albert Einstein.
+1294,Never test for an error condition you don't know how to handle.,Steinbach's Guideline for Systems Programmers..
+1295,Science is what people understand well enough to explain to a computer. All else is art.,Donald Knuth.
+1296,Beware of bugs in the above code; I have only proven it correct  not tried it.,Donald E. Knuth..
+1297,Object-oriented programming is an exceptionally bad idea which could only have originated in California.,Edsger Dijkstra.
+1298,Object-oriented programming is a style of programming designed to teach students about stacks.,Edsger Dijkstra.
+1299,Programming is one of the most difficult branches of applied mathematics; the poorer mathematicians had better remain pure mathematicians.,Edsger Dijkstra.
+1300,The use of anthropomorphic terminology when dealing with computing systems is a symptom of professional immaturity.,Edsger Dijkstra.
+1301,About the use of language: it is impossible to sharpen a pencil with a blunt axe. It is equally vain to try to do it with ten blunt axes instead.,Edsger W. Dijkstra.
+1302,If FORTRAN has been called an infantile disorder then PL/I must be classified as a fatal disease.,Edsger Dijkstra.
+1303,Testing proves the presence not the absence of bugs.,Edsger Dijkstra.
+1304,The question of whether a computer can think is no more interesting than the question of whether a submarine can swim.,Edsger Dijkstra.
+1305,It is practically imposible to teach good programming to students that have had a prior exposure to BASIC: as potential programmers they are mentally mutilated beyond hope of regeneration.,Edsger Dijkstra.
+1306,The use of COBOL cripples the mind; its teaching should  therefore be regarded as a criminal offense.,Edsger Dijkstra.
+1307,and the clueless shall spend their time reinventing the wheel while the elite merely use the Wordstar key mappings,Ed Mulroy.
+1308,Why did God create dentists?,In his infinite love
+1309,If we knew what it was we were doing it would not be called research would it?,Albert Einstein.
+1310,A [pseudo]random number generator is much like sex: when it's good it's wonderful and when it's bad it's still pretty good.,G. Marsaglia.
+1311,A model is done when nothing else can be taken out.,Dyson.
+1312,Real life is that big high-res high-color screen saver behind all the windows.,anonymous.
+1313,We've all heard that a million monkeys banging on a million typewriters will eventually reproduce the entire works of Shakespeare. Now thanks to the Internet we know this is not true.,Robert Wilensky.
+1314,Not everything that can be counted counts and not everything that counts can be counted.,Albert Einstein.
+1315,Physics is not a religion. If it were we'd have a much easier time raising money.,Leon Lenderman.
+1316,Java the best argument for Smalltalk since C++.,unknown.
+1317,Computers are useless; they can only give you answers.,Pablo Picasso.
+1318,Life would be so much easier if we could just see the source code.,unknown.
+1319,Deliver yesterday code today think tomorrow.,unknown.
+1320,Having the source code is the difference between buying a house and renting an apartment.,Behlendorf.
+1321,C++: an octopus made by nailing extra legs onto a dog,unknown.
+1322,C combines all the power of assembly language with the ease of use of assembly language,trad.
+1323,God is real unless declared integer,david.
+1324,Java: the elegant simplicity of C++ and the blazing speed of Smalltalk.,Roland Turner.
+1325,Quotation confesses inferiority.,Ralph Waldo Emerson.
+1326,A mind all logic is like a knife all blade. It makes the hand bleed that uses it.,Rabindranath Tagore.
+1327,Sometimes the best answer is a more interesting question,Terry Pratchett.
+1328,Before C++ we had to code all of our bugs by hand; now we inherit them.,unknown.
+1329,Incrementing C by 1 is not enough to make a good object-oriented language.,M. Sakkinen.
+1330,Science is like sex: sometimes something useful comes out but that is not the reason we are doing it,Richard Feynman.
+1331,Man is the best computer we can put aboard a spacecraft... and the only one that can be mass produced with unskilled labor.,Wernher von Braun.
+1332,Computer /nm./: a device designed to speed and automate errors.,From the Jargon File..
+1333,RAM /abr./: Rarely Adequate Memory.,From the Jargon File.
+1334,A printer consists of three main parts: the case the jammed paper tray and the blinking red light,unknown.
+1335,Real Programmers always confuse Christmas and Halloween because Oct31 == Dec25 !,Andrew Rutherford.
+1336,2 + 2 = 5 for extremely large values of 2.,unknown.
+1337,ASCII stupid question get a stupid ANSI !,unknown.
+1338,Multitasking /adj./ 3 PCs and a chair with wheels !,unknown.
+1339,Pascal /n./ A programming language named after a man who would turn over in his grave if he knew about it.,From the Jargon File.
+1340,If it wasn't for C we'd be writing programs in BASI PASAL and OBOL.,unknown.
+1341,I have yet to meet a C compiler that is more friendly and easier to use than eating soup with a knife.,unknown.
+1342,... one of the main causes of the fall of the Roman Empire was that lacking zero they had no way to indicate successful termination of their C programs.,Robert Firth.
+1343,We should leave our minds open but not so open that our brains fall out.,Alan Ross Anderson.
+1344,The difference between what the most and the least learned people know is inexpressibly trivial in relation to that which is unknown.,Albert Einstein.
+1345,Statistics is like a bikini. What they reveal is suggestive. What they conceal is vital.,Arthur Koestler.
+1346,A hen is only an egg's way of making another egg.,Samuel Butler.
+1347,It is a miracle that curiosity survives formal education.,Albert Einstein.
 1348,Gravity cannot be held responsible for people falling in love.,Albert Einstein.
 1349,Common sense is the collection of prejudices acquired by age eighteen.,Albert Einstein.
 1350,The secret to creativity is knowing how to hide your sources.,Albert Einstein.
@@ -1358,192 +1544,57 @@ id,text,autor
 1159,Maybe there is no actual place called hell. Maybe hell is just having to listen to our grandparents breathe through their noses when they're eating sandwiches.,Jim Carrey..
 1160,When did I realize I was God? Well I was praying and I suddenly realized I was talking to myself.,Peter O'Toole..
 1161,They say such nice things about people at their funerals that it makes me sad that I'm going to miss mine by just a few days.,Garrison Kielor..
-1162,It was God who made me so beautiful. If I weren't then I'd be a teacher.,Linda Evangelista..
-1163,The secret of a good sermon is to have a good beginning and a good ending then having the two as close together as possible.,George Burns..
-1164,I would have made a good Pope.,Richard Nixon..
-1165,I was raised in the Jewish tradition taught never to marry a Gentile woman shave on a Saturday night and most especially  never to shave a Gentile woman on a Saturday night.,Woody Allen..
-1166,God is love but get it in writing.,Gypsy Rose Lee..
-1167,I don't pray because I don't want to bore God.,Orson Welles..
-1168,As the poet said 'Only God can make a tree ' probably because it's so hard to figure out how to get the bark on.,Woody Allen..
-1169,I have four children which is not bad considering I'm not a Catholic.,Peter Ustinov..
-1170,I hear Glenn Hoddle has found God. That must have been one hell of a pass.,Bob Davies..
-1171,And God said 'Let there be light' and there was light but the Electricity Board said He would have to wait until Thursday to be connected.,Spike Milligan..
-1172,No mention of God. They keep Him up their sleeves for as long as they can vicars do. They know it puts people off.,Alan Bennett..
-1173,I'm Jewish. I don't work out. If God had wanted us to bend over  He would have put diamonds on the floor.,Joan Rivers..
-1174,There is a charm about the forbidden that makes it unspeakably diserable.,Mark Twain..
-1175,Always go to other people's funerals otherwise they won't come to yours.,Yogi Berra..
-1176,Death is a low chemical trick played on everybody except sequoia trees.,JJ Furnas..
-1177,Dying is a very dull dreary affair. And my advice to you is to have nothing whatever to do with it.,W. Somerset Maugham..
-1178,Early to rise and early to bed. Makes a male healthy wealthy and dead.,James Thurber..
-1179,Everybody wants to go to heaven but nobody wants to die.,Joe Louis..
-1180,He had decided to live forever or die in the attempt.,Joseph Heller..
-1181,I am ready to meet my Maker. Whether my Maker is prepared for the great ordeal of meeting me is another matter.,Winston Churchill..
-1182,Death is one of the few things that can be done as easily lying down. The difference between sex and death is that with death you can do it alone and no one is going to make fun of you.,Woody Allen..
-1183,All our knowledge merely helps us to die a more painful death than animals that know nothing.,Maurice Maeterlinck..
-1184,A single death is a tragedy a million deaths is a statistic.,Joseph Stalin..
-1185,Eternal nothingness is fine if you happen to be dressed for it.,Woody Allen..
-1186,Everything is drive-through. In California they even have a burial service called Jump-In-The-Box.,Wil Shriner..
-1187,In this world nothing is certain but death and taxes.,Benjamin Franklin..
-1188,The fear of death is the most unjustified of all fears for there's no risk of accident for someone who's dead.,Albert Einstein..
-1189,I wouldn't mind dying - it's the business of having to stay dead that scares the shit out of me.,R. Geis..
-1190,It's impossible to experience one's death objectively and still carry a tune.,Woody Allen..
-1191,For if he like a madman lived At least he like a wise one died.,Cervantes..
-1192,Death does not concern us because as long as we exist death is not here. And when it does come we no longer exist.,Epicurus..
-1193,Am I lightheaded because I'm not dead or because I'm still alive?,Heidi Sandige..
-1194,A low voter turnout is an indication of fewer people going to the polls.,George W. Bush.
-1195,I was raised in the West. The west of Texas. It's pretty close to California. In more ways than Washington D.C. is close to California.,George W. Bush.
-1196,Rarely is the question asked: Is our children learning?,George W. Bush.
-1197,What I am against is quotas. I am against hard quotas quotas they basically delineate based upon whatever. However they delineate quotas I think vulcanize society. So I don't know how that fits into what everybody else is saying their relative positions but that's my position.,George W. Bush.
-1198,It's clearly a budget. It's got a lot of numbers in it.,George W. Bush.
-1199,One word sums up probably the responsibility of any Governor  and that one word is 'to be prepared'.,George W. Bush.
-1200,If you're sick and tired of the politics of cynicism and polls and principles come and join this campaign.,George W. Bush.
-1201,We must all hear the universal call to like your neighbor like you like to be liked yourself.,George W. Bush.
-1202,The most important job is not to be Governor or First Lady in my case.,George W. Bush.
-1203,If people can judge me on the company I keep they would judge me with keeping really good company with Laura.,George W. Bush.
-1204,You'll notice that Nancy Reagan never drinks water when Ronnie speaks.,Robin Williams..
-1205,I'm not going to have some reporters pawing through our papers. We are the president.,Hillary Clinton..
-1206,A committee is a group of people who individually can do nothing but together can decide that nothing can be done.,Fred Allen..
-1207,Richard Nixon is a no good lying bastard. He can lie out of both sides of his mouth at the same time and if he ever caught himself telling the truth he'd lie just to keep his hand in.,Harry S. Truman..
-1208,Behind every successful man is a woman behind her is his wife.,Groucho Marx.
-1209,Marry me and I'll never look at another horse!,Groucho Marx.
-1210,A woman is an occasional pleasure but a cigar is always a smoke.,Groucho Marx.
-1211,Outside of a dog a book is man's best friend. Inside of a dog  it's too dark to read.,Groucho Marx.
-1212,Why was I with her? She reminds me of you. In fact she reminds me more of you than you do!,Groucho Marx.
-1213,Women should be obscene and not heard.,Groucho Marx.
-1214,Either he's dead or my watch has stopped.,Groucho Marx.
-1215,I don't care to belong to a club that accepts people like me as members.,Groucho Marx.
-1216,I must confess I was born at a very early age.,Groucho Marx.
-1217,I have had a perfectly wonderful evening but this wasn't it.,Groucho Marx.
-1218,Room service? Send up a larger room.,Groucho Marx.
-1219,I never forget a face but in your case I'll be glad to make an exception.,Groucho Marx.
-1220,A man's only as old as the woman he feels.,Groucho Marx.
-1221,One morning I shot a bear in my pajamas. How it got into my pajamas I'll never know.,Groucho Marx.
-1222,If I held you any closer I would be on the other side of you.,Groucho Marx.
-1223,I was married by a judge. I should have asked for a jury.,Groucho Marx.
-1224,Who are you going to believe me or your own eyes?,Groucho Marx.
-1225,Quote me as saying I was mis-quoted.,Groucho Marx.
-1226,A child of five could understand this. Fetch me a child of five.,Groucho Marx.
-1227,Those are my principles. If you don't like them I have others.,Groucho Marx.
-1228,Police arrested two kids yesterday one was drinking battery acid the other was eating fireworks. They charged one and let the other one off.,Tommy Cooper.
-1229,A blind bloke walks into a shop with a guide dog. He picks the Dog up and starts swinging it around his head. Alarmed a shop assistant calls out: 'Can I help sir?' 'No thanks ' says the blind bloke. 'Just looking.',Tommy Cooper.
-1230,It's strange isn't it. You stand in the middle of a library and go 'aaaaagghhhh' and everyone just stares at you. But you do the same thing on an aeroplane and everyone joins in.,Tommy Cooper.
-1231,So I was getting into my car and this bloke says to me ,Tommy Cooper.
-1232,You know somebody actually complimented me on my driving today. They left a little note on the windscreen it said 'Parking Fine.',Tommy Cooper.
-1233,So I went to the dentist. He said ,Tommy Cooper.
-1234,So I rang up a local building firm I said 'I want a skip outside my house.' He said 'I'm not stopping you.',Tommy Cooper.
-1235,So I was in my car and I was driving along and my boss rang up and he said 'You've been promoted'. And I swerved. And then he rang up a second time and said 'You've been promoted again'. And I swerved again. He rang up a third time and said 'You're managing director.' And I went into a tree. And a policeman came up and said 'What happened to you?' And I Said 'I careered off the road.',Tommy Cooper.
-1236,Don't knock masturbation it's sex with someone I love .,Woody Allen
-1237,A fast word about oral contraception. I asked a girl to go to bed with me she said 'no'.,Woody Allen.
-1238,It's not that I'm afraid to die I just don't want to be there when it happens.,Woody Allen
-1239,There are worse things in life than death. Have you ever spent an evening with an insurance salesman?,Woody Allen.
-1240,Money is better than poverty if only for financial reasons.,Woody Allen
-1241,I failed to make the chess team because of my height.,Woody Allen.
-1242,I believe that sex is a beautiful thing between two people. Between five it's fantastic.,Woody Allen.
-1243,Love is the answer - but while you're waiting for the answer sex raises some pretty good questions.,Woody Allen.
-1244,I'm very proud of my gold pocket watch. My grandfather on his deathbed sold me this watch.,Woody Allen.
-1245,I'm always amazed to hear of air crash victims so badly mutilated that they have to be identified by their dental records. What I can't understand is if they don't know who you are how do they know who your dentist is?,Paul Merton..
-1246,The Stones I love the Stones. I watch them whenever I can. Fred  Barney...,Steven Wright..
-1247,First you forget names then you forget faces. Next you forget to pull your zipper up and finally you forget to pull it down.,George Burns..
-1248,The pen is mightier than the sword and considerably easier to write with.,Marty Feldman..
-1249,We had gay burglars the other night. They broke in and rearranged the furniture.,Robin Williams..
-1250,If toast always lands butter-side down and cats always land on their feet what happens if you strap toast on the back of a cat and drop it?,Steven Wright..
-1251,I'm desperately trying to figure out why kamikaze pilots wore helmets.,Dave Edison..
-1252,Did you ever walk in a room and forget why you walked in? I think that's how dogs spend their lives.,Sue Murphy..
-1253,A sure cure for seasickness is to sit under a tree.,Spike Milligan..
-1254,Why don't they make the whole plane out of that black box stuff.,Steven Wright..
-1255,I once heard two ladies going on and on about the pains of childbirth and how men don't seem to know what real pain is. I asked if either of them ever got themselves caught in a zipper.,Emo Philips..
-1256,My neighbour asked if he could use my lawnmower and I told him of course he could so long as he didn't take it out of my garden.,Eric Morecambe..
-1257,You're about as useful as a one-legged man at an arse kicking contest.,Rowan Atkinson..
-1258,He managed to stupid himself right into the White House.,Charles Appel about George W. Bush.
-1259,Reality is that which when you stop believing in it doesn't go away.,Philip K. Dick..
-1260,Believe those who are seeking the truth. Doubt those who find it.,Andr� Gide.
-1261,Just because bulldozers are used to build highways doesn't mean bulldozers are the best way to travel on a highway.,Danny Thorpe in borland.public.delphi.non-technical.
-1262,Write a wise word and your name will live forever.,Anonymous.
-1263,To the Honourable Member opposite I say when he goes home tonight may his mother run out from under the porch and bark at him,John G. Diefenbaker.
-1264,Devlin's First Law - Buyer beware: in the hands of a charlatan  mathematics can be used to make a vacuous argument look impressive. Devlin's Second Law - So can PowerPoint.,Keith Devlin.
-1265,Gigerenzer's Law of Indispensable Ignorance: The world cannot function without partially ignorant people.,Gerd Gigerenzer.
-1266,Lohr's Law: The future is merely the past with a twist - and better tools.,Steve Lohr.
-1267,Raymond's Law of Software: Given a sufficiently large number of eyeballs all bugs are shallow.,Eric S. Raymond.
-1268,Barab�si's Law of Programming: Program development ends when the program does what you expect it to do - whether it is correct or not.,Albert-L�szl� Barab�si.
-1269,Anyone who starts a sentence 'With all due respect ...' is about to insult you.,unknown.
-1270,The only one listening to both sides of an argument is the neighbor in the next apartment,unknown.
-1271,Cholesterol is your natural defence against excessive circulation of blood which can carry venoms poisons and other toxins around your body.,Michael Warner
-1272,Mit der Dummheit k�mpfen G�tter selbst vergebens,Friedrich von Schiller.
-1273,There Ought to be Limits to Freedom!,George W. Bush
-1274,We are Dyslexia of Borg. Fusistance is retile. Your ass will be laminated.,unknown.
-1275,I Can't Think Of Anything Reasonable To Counter Your Argument Or Don't Have The Least Inkling Of The Subject So I Will Resort To Name Calling And Hope I Can Get Away With It.,Ken de Camargo
-1276,I don't approve of political jokes... I've seen too many of them get elected.,unknown.
-1277,I plan to live forever. So far so good.,Rob C. Claffie in borland.public.off-topic.
-1278,Millions long for immortality who do not know what to do with themselves on a rainy Sunday afternoon.,Susan Ertz.
-1279,If the United Nations once admits that international disputes can be settled by using force then we will have destroyed the foundation of the organization and our best hope of establishing a world order.,Dwight D. Eisenhower.
-1280,Sex is like a Chinese dinner. It isn't over until everyone gets their cookies.,"from the movie ""Outside Providence""."
-1281,A picture is worth a thousand words (which is why it takes a thousand times longer to load...),Eric Tilton
-1282,1001 words say more than one picture,Chinese proverb.
-1283,There is no idea so simple and powerful that you can't get zillions of people to misunderstand it.,Alan Kay.
-1284,The purpose of computing is not numbers but insight.,Richard Hamming.
-1285,They have computers and they may have other weapons of mass destruction.,Janet Reno
-1286,Imagine if every Thursday your shoes exploded if you tied them the usual way. This happens to us all the time with computers  and nobody thinks of complaining.,Jeff Raskin.
-1287,Programming is like sex: one mistake and you have to support it for the rest of your life.,Michael Sinz.
-1288,Linux is like living in a teepee. No Windows no Gates Apache in house.,Usenet signature.
-1289,DOS Computers manufactured by companies such as IBM Compaq  Tandy and millions of others are by far the most popular with about 70 million machines in use worldwide. Macintosh fans on the other hand may note that cockroaches are far more numerous than humans and that numbers alone do not denote a higher life form.,New York Times
-1290,Politics is the art of looking for trouble finding it everywhere diagnosing it incorrectly and applying the wrong remedies.,Groucho Marx.
-1291,Momma always said life was like a box of chocolates. You never know what you're gonna get.,Forest Gump.
-1292,I invented the term Object-Oriented and I can tell you I did not have C++ in mind.,Alan Kay.
-1293,Reality is merely an illusion albeit a very persistent one.,Albert Einstein.
-1294,Never test for an error condition you don't know how to handle.,Steinbach's Guideline for Systems Programmers..
-1295,Science is what people understand well enough to explain to a computer. All else is art.,Donald Knuth.
-1296,Beware of bugs in the above code; I have only proven it correct  not tried it.,Donald E. Knuth..
-1297,Object-oriented programming is an exceptionally bad idea which could only have originated in California.,Edsger Dijkstra.
-1298,Object-oriented programming is a style of programming designed to teach students about stacks.,Edsger Dijkstra.
-1299,Programming is one of the most difficult branches of applied mathematics; the poorer mathematicians had better remain pure mathematicians.,Edsger Dijkstra.
-1300,The use of anthropomorphic terminology when dealing with computing systems is a symptom of professional immaturity.,Edsger Dijkstra.
-1301,About the use of language: it is impossible to sharpen a pencil with a blunt axe. It is equally vain to try to do it with ten blunt axes instead.,Edsger W. Dijkstra.
-1302,If FORTRAN has been called an infantile disorder then PL/I must be classified as a fatal disease.,Edsger Dijkstra.
-1303,Testing proves the presence not the absence of bugs.,Edsger Dijkstra.
-1304,The question of whether a computer can think is no more interesting than the question of whether a submarine can swim.,Edsger Dijkstra.
-1305,It is practically imposible to teach good programming to students that have had a prior exposure to BASIC: as potential programmers they are mentally mutilated beyond hope of regeneration.,Edsger Dijkstra.
-1306,The use of COBOL cripples the mind; its teaching should  therefore be regarded as a criminal offense.,Edsger Dijkstra.
-1307,and the clueless shall spend their time reinventing the wheel while the elite merely use the Wordstar key mappings,Ed Mulroy.
-1308,Why did God create dentists?,In his infinite love
-1309,If we knew what it was we were doing it would not be called research would it?,Albert Einstein.
-1310,A [pseudo]random number generator is much like sex: when it's good it's wonderful and when it's bad it's still pretty good.,G. Marsaglia.
-1311,A model is done when nothing else can be taken out.,Dyson.
-1312,Real life is that big high-res high-color screen saver behind all the windows.,anonymous.
-1313,We've all heard that a million monkeys banging on a million typewriters will eventually reproduce the entire works of Shakespeare. Now thanks to the Internet we know this is not true.,Robert Wilensky.
-1314,Not everything that can be counted counts and not everything that counts can be counted.,Albert Einstein.
-1315,Physics is not a religion. If it were we'd have a much easier time raising money.,Leon Lenderman.
-1316,Java the best argument for Smalltalk since C++.,unknown.
-1317,Computers are useless; they can only give you answers.,Pablo Picasso.
-1318,Life would be so much easier if we could just see the source code.,unknown.
-1319,Deliver yesterday code today think tomorrow.,unknown.
-1320,Having the source code is the difference between buying a house and renting an apartment.,Behlendorf.
-1321,C++: an octopus made by nailing extra legs onto a dog,unknown.
-1322,C combines all the power of assembly language with the ease of use of assembly language,trad.
-1323,God is real unless declared integer,david.
-1324,Java: the elegant simplicity of C++ and the blazing speed of Smalltalk.,Roland Turner.
-1325,Quotation confesses inferiority.,Ralph Waldo Emerson.
-1326,A mind all logic is like a knife all blade. It makes the hand bleed that uses it.,Rabindranath Tagore.
-1327,Sometimes the best answer is a more interesting question,Terry Pratchett.
-1328,Before C++ we had to code all of our bugs by hand; now we inherit them.,unknown.
-1329,Incrementing C by 1 is not enough to make a good object-oriented language.,M. Sakkinen.
-1330,Science is like sex: sometimes something useful comes out but that is not the reason we are doing it,Richard Feynman.
-1331,Man is the best computer we can put aboard a spacecraft... and the only one that can be mass produced with unskilled labor.,Wernher von Braun.
-1332,Computer /nm./: a device designed to speed and automate errors.,From the Jargon File..
-1333,RAM /abr./: Rarely Adequate Memory.,From the Jargon File.
-1334,A printer consists of three main parts: the case the jammed paper tray and the blinking red light,unknown.
-1335,Real Programmers always confuse Christmas and Halloween because Oct31 == Dec25 !,Andrew Rutherford.
-1336,2 + 2 = 5 for extremely large values of 2.,unknown.
-1337,ASCII stupid question get a stupid ANSI !,unknown.
-1338,Multitasking /adj./ 3 PCs and a chair with wheels !,unknown.
-1339,Pascal /n./ A programming language named after a man who would turn over in his grave if he knew about it.,From the Jargon File.
-1340,If it wasn't for C we'd be writing programs in BASI PASAL and OBOL.,unknown.
-1341,I have yet to meet a C compiler that is more friendly and easier to use than eating soup with a knife.,unknown.
-1342,... one of the main causes of the fall of the Roman Empire was that lacking zero they had no way to indicate successful termination of their C programs.,Robert Firth.
-1343,We should leave our minds open but not so open that our brains fall out.,Alan Ross Anderson.
-1344,The difference between what the most and the least learned people know is inexpressibly trivial in relation to that which is unknown.,Albert Einstein.
-1345,Statistics is like a bikini. What they reveal is suggestive. What they conceal is vital.,Arthur Koestler.
-1346,A hen is only an egg's way of making another egg.,Samuel Butler.
-1347,It is a miracle that curiosity survives formal education.,Albert Einstein.
+1568,The longer I live the more I see that I am never wrong about anything and that all the pains that I have so humbly taken to verify my notions have only wasted my time.,George Bernard Shaw (1856-1950).
+1569,Silence is argument carried out by other means.,"Ernesto ""Che"" Guevara (1928-1967)."
+1570,Well done is better than well said.,Benjamin Franklin (1706-1790).
+1571,The average person thinks he isn't.,Father Larry Lorenzoni.
+1572,Heav'n hath no rage like love to hatred turn'd Nor Hell a fury  like a woman scorn'd.,William Congreve (1670-1729).
+1573,A husband is what is left of the lover after the nerve has been extracted.,Helen Rowland (1876-1950).
+1574,Learning is what most adults will do for a living in the 21st century.,Perelman.
+1575,The man who goes alone can start today; but he who travels with another must wait till that other is ready.,Henry David Thoreau (1817-1862).
+1576,There is a country in Europe where multiple-choice tests are illegal.,Sigfried Hulzer.
+1577,Ask her to wait a moment - I am almost done.,Carl Friedrich Gauss (1777-1855)
+1578,A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty.,Sir Winston Churchill (1874-1965).
+1579,I think there is a world market for maybe five computers.,Thomas Watson (1874-1956)
+1580,I think it would be a good idea.,Mahatma Gandhi (1869-1948)
+1581,The only thing necessary for the triumph of evil is for good men to do nothing.,Edmund Burke (1729-1797).
+1582,I'm not a member of any organized political party I'm a Democrat!,Will Rogers (1879-1935).
+1583,If Stupidity got us into this mess then why can't it get us out?,Will Rogers (1879-1935).
+1584,The backbone of surprise is fusing speed with secrecy.,Von Clausewitz (1780-1831).
+1585,Democracy does not guarantee equality of conditions - it only guarantees equality of opportunity.,Irving Kristol.
+1586,There is no reason anyone would want a computer in their home.,Ken Olson
+1587,640K ought to be enough for anybody.,Bill Gates (1955-)
+1588,The concept is interesting and well-formed but in order to earn better than a 'C' the idea must be feasible.,A Yale University management professor in response to student
+1589,Who the hell wants to hear actors talk?,H.M. Warner (1881-1958)
+1590,We don't like their sound and guitar music is on the way out.,Decca Recording Co. rejecting the Beatles
+1591,Everything that can be invented has been invented.,Charles H. Duell
+1592,Denial ain't just a river in Egypt.,Mark Twain (1835-1910).
+1593,A pint of sweat saves a gallon of blood.,General George S. Patton (1885-1945).
+1594,After I'm dead I'd rather have people ask why I have no monument than why I have one.,Cato the Elder (234-149 BC
+1595,He can compress the most words into the smallest idea of any man I know.,Abraham Lincoln (1809-1865).
+1596,Don't let it end like this. Tell them I said something.,last words of Pancho Villa (1877-1923).
+1597,The right to swing my fist ends where the other man's nose begins.,Oliver Wendell Holmes (1841-1935).
+1598,The difference between fiction and reality? Fiction has to make sense.,Tom Clancy.
+1599,It's not the size of the dog in the fight it's the size of the fight in the dog.,Mark Twain (1835-1910).
+1600,It is better to be feared than loved if you cannot be both.,Niccolo Machiavelli (1469-1527)
+1601,Whatever is begun in anger ends in shame.,Benjamin Franklin (1706-1790).
+1602,The President has kept all of the promises he intended to keep.,Clinton aide George Stephanopolous speaking on Larry
+1603,We're going to turn this team around 360 degrees.,Jason Kidd
+1604,Half this game is ninety percent mental.,Yogi Berra.
+1605,There is only one nature - the division into science and engineering is a human imposition not a natural one. Indeed  the division is a human failure; it reflects our limited capacity to comprehend the whole.,Bill Wulf.
+1606,There's many a bestseller that could have been prevented by a good teacher.,Flannery O'Connor (1925-1964).
+1607,He has all the virtues I dislike and none of the vices I admire.,Sir Winston Churchill (1874-1965).
+1608,I criticize by creation - not by finding fault.,Cicero (106-43 B.C.).
+1609,Love is friendship set on fire.,Jeremy Taylor.
+1610,God gave men both a penis and a brain but unfortunately not enough blood supply to run both at the same time.,Robin Williams
+1611,My occupation now I suppose is jail inmate.,Unibomber Theodore Kaczynski
+1612,Woman was God's second mistake.,Friedrich Nietzsche (1844-1900).
+1613,This isn't right this isn't even wrong.,Wolfgang Pauli (1900-1958)
+1614,For centuries theologians have been explaining the unknowable in terms of the-not-worth-knowing.,Henry Louis Mencken (1880-1956).
+1615,Pray v.: To ask that the laws of the universe be annulled on behalf of a single petitioner confessedly unworthy.,Ambrose Bierce (1842-1914).
+1616,Every normal man must be tempted at times to spit upon his hands hoist the black flag and begin slitting throats.,Henry Louis Mencken (1880-1956).
+1617,Now now my good man this is no time for making enemies.,Voltaire (1694-1778) on his deathbed in response to a priest
+1618,Fill the unforgiving minute with sixty seconds worth of distance run.,Rudyard Kipling (1865-1936).
 1619,He would make a lovely corpse.,Charles Dickens (1812-1870).
 1620,I've just learned about his illness. Let's hope it's nothing trivial.,Irvin S. Cobb.
 1621,I worship the quicksand he walks in.,Art Buchwald.
@@ -1617,54 +1668,3 @@ id,text,autor
 1565,The best way to predict the future is to invent it.,Alan Kay.
 1566,Never mistake motion for action.,Ernest Hemingway (1899-1961).
 1567,Hell is paved with good samaritans.,William M. Holden.
-1568,The longer I live the more I see that I am never wrong about anything and that all the pains that I have so humbly taken to verify my notions have only wasted my time.,George Bernard Shaw (1856-1950).
-1569,Silence is argument carried out by other means.,"Ernesto ""Che"" Guevara (1928-1967)."
-1570,Well done is better than well said.,Benjamin Franklin (1706-1790).
-1571,The average person thinks he isn't.,Father Larry Lorenzoni.
-1572,Heav'n hath no rage like love to hatred turn'd Nor Hell a fury  like a woman scorn'd.,William Congreve (1670-1729).
-1573,A husband is what is left of the lover after the nerve has been extracted.,Helen Rowland (1876-1950).
-1574,Learning is what most adults will do for a living in the 21st century.,Perelman.
-1575,The man who goes alone can start today; but he who travels with another must wait till that other is ready.,Henry David Thoreau (1817-1862).
-1576,There is a country in Europe where multiple-choice tests are illegal.,Sigfried Hulzer.
-1577,Ask her to wait a moment - I am almost done.,Carl Friedrich Gauss (1777-1855)
-1578,A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty.,Sir Winston Churchill (1874-1965).
-1579,I think there is a world market for maybe five computers.,Thomas Watson (1874-1956)
-1580,I think it would be a good idea.,Mahatma Gandhi (1869-1948)
-1581,The only thing necessary for the triumph of evil is for good men to do nothing.,Edmund Burke (1729-1797).
-1582,I'm not a member of any organized political party I'm a Democrat!,Will Rogers (1879-1935).
-1583,If Stupidity got us into this mess then why can't it get us out?,Will Rogers (1879-1935).
-1584,The backbone of surprise is fusing speed with secrecy.,Von Clausewitz (1780-1831).
-1585,Democracy does not guarantee equality of conditions - it only guarantees equality of opportunity.,Irving Kristol.
-1586,There is no reason anyone would want a computer in their home.,Ken Olson
-1587,640K ought to be enough for anybody.,Bill Gates (1955-)
-1588,The concept is interesting and well-formed but in order to earn better than a 'C' the idea must be feasible.,A Yale University management professor in response to student
-1589,Who the hell wants to hear actors talk?,H.M. Warner (1881-1958)
-1590,We don't like their sound and guitar music is on the way out.,Decca Recording Co. rejecting the Beatles
-1591,Everything that can be invented has been invented.,Charles H. Duell
-1592,Denial ain't just a river in Egypt.,Mark Twain (1835-1910).
-1593,A pint of sweat saves a gallon of blood.,General George S. Patton (1885-1945).
-1594,After I'm dead I'd rather have people ask why I have no monument than why I have one.,Cato the Elder (234-149 BC
-1595,He can compress the most words into the smallest idea of any man I know.,Abraham Lincoln (1809-1865).
-1596,Don't let it end like this. Tell them I said something.,last words of Pancho Villa (1877-1923).
-1597,The right to swing my fist ends where the other man's nose begins.,Oliver Wendell Holmes (1841-1935).
-1598,The difference between fiction and reality? Fiction has to make sense.,Tom Clancy.
-1599,It's not the size of the dog in the fight it's the size of the fight in the dog.,Mark Twain (1835-1910).
-1600,It is better to be feared than loved if you cannot be both.,Niccolo Machiavelli (1469-1527)
-1601,Whatever is begun in anger ends in shame.,Benjamin Franklin (1706-1790).
-1602,The President has kept all of the promises he intended to keep.,Clinton aide George Stephanopolous speaking on Larry
-1603,We're going to turn this team around 360 degrees.,Jason Kidd
-1604,Half this game is ninety percent mental.,Yogi Berra.
-1605,There is only one nature - the division into science and engineering is a human imposition not a natural one. Indeed  the division is a human failure; it reflects our limited capacity to comprehend the whole.,Bill Wulf.
-1606,There's many a bestseller that could have been prevented by a good teacher.,Flannery O'Connor (1925-1964).
-1607,He has all the virtues I dislike and none of the vices I admire.,Sir Winston Churchill (1874-1965).
-1608,I criticize by creation - not by finding fault.,Cicero (106-43 B.C.).
-1609,Love is friendship set on fire.,Jeremy Taylor.
-1610,God gave men both a penis and a brain but unfortunately not enough blood supply to run both at the same time.,Robin Williams
-1611,My occupation now I suppose is jail inmate.,Unibomber Theodore Kaczynski
-1612,Woman was God's second mistake.,Friedrich Nietzsche (1844-1900).
-1613,This isn't right this isn't even wrong.,Wolfgang Pauli (1900-1958)
-1614,For centuries theologians have been explaining the unknowable in terms of the-not-worth-knowing.,Henry Louis Mencken (1880-1956).
-1615,Pray v.: To ask that the laws of the universe be annulled on behalf of a single petitioner confessedly unworthy.,Ambrose Bierce (1842-1914).
-1616,Every normal man must be tempted at times to spit upon his hands hoist the black flag and begin slitting throats.,Henry Louis Mencken (1880-1956).
-1617,Now now my good man this is no time for making enemies.,Voltaire (1694-1778) on his deathbed in response to a priest
-1618,Fill the unforgiving minute with sixty seconds worth of distance run.,Rudyard Kipling (1865-1936).

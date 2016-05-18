@@ -1,2 +1,0 @@
-utilizator,parola
-Cip,Boss

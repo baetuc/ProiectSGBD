@@ -174,13 +174,13 @@ end medie_rating;
 /
 
 ALTER SESSION SET PLSCOPE_SETTINGS = 'IDENTIFIERS:ALL';
-declare
-  v_mesaj VARCHAR(32767);
-begin
-  RATE('Marcel', 2, 7, v_mesaj);
-  dbms_output.put_line(v_mesaj);
-end;
-/
-insert into utilizator_parola values('Sec','sec');
-select * from distante_utilizatori;
-select * from utilizator_carte_rating;
+--declare
+--  v_mesaj VARCHAR(32767);
+--begin
+--  RATE('Marcel', 2, 7, v_mesaj);
+--  dbms_output.put_line(v_mesaj);
+--end;
+--/
+--insert into utilizator_parola values('Sec','sec');
+--select * from distante_utilizatori;
+--select * from utilizator_carte_rating;

@@ -146,6 +146,40 @@ IS
     END LOOP;
     UTL_FILE.FCLOSE(out_file);
   END export_citate;
+  
+  PROCEDURE export_distante_utilizatori
+  IS
+    out_file UTL_FILE.FILE_TYPE;
+  BEGIN
+    out_file := Utl_File.FOpen('EXPORT', 'distante_utilizatoriExport.csv' , 'W');
+    Utl_File.Put_Line(out_file , 'u1,u2,distanta');
+    UTL_FILE.FFLUSH (out_file);
+    FOR c_linie IN
+    (SELECT * FROM distante_utilizatori
+    )
+    LOOP
+      Utl_File.Put_Line(out_file, '' || c_linie.u1 || ',' || c_linie.u2 || ',' || c_linie.distanta);
+      UTL_FILE.FFLUSH (out_file);
+    END LOOP;
+    UTL_FILE.FCLOSE(out_file);
+  END export_distante_utilizatori;
+  
+  PROCEDURE export_utilizator_carte
+  IS
+    out_file UTL_FILE.FILE_TYPE;
+  BEGIN
+    out_file := Utl_File.FOpen('EXPORT', 'utilizator_carte_ratingExport.csv' , 'W');
+    Utl_File.Put_Line(out_file , 'utilizator,ISBN,rating');
+    UTL_FILE.FFLUSH (out_file);
+    FOR c_linie IN
+    (SELECT * FROM utilizator_carte_rating
+    )
+    LOOP
+      Utl_File.Put_Line(out_file, '' || c_linie.utilizator || ',' || c_linie.ISBN || ',' || c_linie.rating);
+      UTL_FILE.FFLUSH (out_file);
+    END LOOP;
+    UTL_FILE.FCLOSE(out_file);
+  END export_utilizator_carte;
 
   PROCEDURE export_database
   IS
@@ -158,6 +192,8 @@ IS
     export_ierarhie();
     export_utilizatori_parola();
     export_citate();
+    export_distante_utilizatori();
+    export_utilizator_carte();
   END export_database;
 
   PROCEDURE import_BD_tabel(
@@ -197,11 +233,15 @@ IS
     import_BD_tabel('abordariExport.csv','abordari');
     import_BD_tabel('utilizator_parolaExport.csv', 'utilizator_parola');
     import_BD_tabel('citateExport.csv','citate');
+--    import_BD_tabel('distante_utilizatoriExport.csv','distante_utilizatori');
+    import_BD_tabel('utilizator_carte_ratingExport.csv','utilizator_carte_rating');
   END import_BD;
 END import_export;
 /
 
---BEGIN
---  import_export.import_BD();
---END;
---/
+BEGIN
+  import_export.import_BD();
+END;
+/
+
+ --select count(*) from carti;

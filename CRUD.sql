@@ -32,8 +32,62 @@ JOIN autori NATURAL
 JOIN abordari NATURAL
 JOIN ierarhie
 WHERE subgen = 'Matematic?';
+
+
+CREATE OR REPLACE PACKAGE CRUD IS
+
+PROCEDURE insereaza_carte(
+    p_titlu       IN opere.titlu%TYPE,
+    p_volum       IN opere.volum%TYPE,
+    p_isbn        IN carti.isbn%TYPE,
+    p_editura     IN carti.editura%TYPE,
+    p_calea       IN carti.calea%TYPE,
+    p_an_aparitie IN carti.an_aparitie%TYPE,
+    p_subgen      IN ierarhie.subgen%TYPE,
+    p_nume        IN autori.nume%type,
+    p_prenume     IN autori.prenume%type);
+    
+PROCEDURE insereaza_autor
+  (
+    p_nume    IN autori.nume%type,
+    p_prenume IN autori.prenume%type
+  );
+PROCEDURE insereaza_subgen
+  (
+    p_subgen IN ierarhie.subgen%type,
+    p_gen    IN ierarhie.gen%type
+  );
+  
+PROCEDURE insereaza_opera
+  (
+    p_titlu opere.titlu%type,
+    p_volum opere.volum%type,
+    p_nume autori.nume%type,
+    p_prenume autori.prenume%type
+  );
+
+PROCEDURE sterge_carte
+  (
+    p_isbn carti.isbn%type
+  );
+PROCEDURE sterge_autor(
+    p_autID autori.autID%type);
+    
+PROCEDURE sterge_opera(
+    p_opID opere.opID%type);
+    
+PROCEDURE sterge_subgen(
+    p_subgen ierarhie.subgen%type,
+    p_mesaj_succes out varchar2);
+  
+
+END CRUD;
+/
+
 ---------------------------- INSERTURI ----------------------------------------
-CREATE OR REPLACE PROCEDURE insereaza_carte(
+
+CREATE OR REPLACE PACKAGE BODY CRUD AS
+PROCEDURE insereaza_carte(
     p_titlu       IN opere.titlu%TYPE,
     p_volum       IN opere.volum%TYPE,
     p_isbn        IN carti.isbn%TYPE,
@@ -69,6 +123,7 @@ BEGIN
       p_calea,
       p_an_aparitie,
       NULL,
+      0,
       v_opID
     );
   INSERT INTO abordari VALUES
@@ -88,10 +143,8 @@ WHEN OTHERS THEN
   ROLLBACK TO inainte;
   raise_application_error(-20004,'Eroare la introducere carte! V? rug?m reîncerca?i.');
 END insereaza_carte;
-/
 
-
-CREATE OR REPLACE PROCEDURE insereaza_autor
+PROCEDURE insereaza_autor
   (
     p_nume    IN autori.nume%type,
     p_prenume IN autori.prenume%type
@@ -107,9 +160,9 @@ EXCEPTION
 WHEN OTHERS THEN
   raise_application_error(-20005,'Eroare la introducere autor! V? rug?m verifica?i autorul.');
 END insereaza_autor;
-/
 
-CREATE OR REPLACE PROCEDURE insereaza_subgen
+
+PROCEDURE insereaza_subgen
   (
     p_subgen IN ierarhie.subgen%type,
     p_gen    IN ierarhie.gen%type
@@ -130,9 +183,8 @@ WHEN exceptii.subgen_deja_existent THEN
 WHEN OTHERS THEN
   raise_application_error(-20007,'Eroare la introducere subgen! V? rug?m verifica?i (sub)genul.');
 END insereaza_subgen;
-/
 
-CREATE OR REPLACE PROCEDURE insereaza_opera
+PROCEDURE insereaza_opera
   (
     p_titlu opere.titlu%type,
     p_volum opere.volum%type,
@@ -158,10 +210,10 @@ EXCEPTION
 WHEN OTHERS THEN
   raise_application_error(-20008,'Eroare la introducere opera! V? rug?m încerca?i din nou.');
 END insereaza_opera;
-/
+
 ---------------------------- DELETE-URI ----------------------------------------
 
-CREATE OR REPLACE PROCEDURE sterge_carte
+PROCEDURE sterge_carte
   (
     p_isbn carti.isbn%type
   )
@@ -179,9 +231,9 @@ WHEN exceptii.isbn_inexistent THEN
 WHEN OTHERS THEN
   raise_application_error(-20010,'Eroare la ?tergere carte! V? rug?m s? încerca?i din nou.');
 END sterge_carte;
-/
 
-CREATE OR REPLACE PROCEDURE sterge_autor(
+
+PROCEDURE sterge_autor(
     p_autID autori.autID%type)
 IS
   v_count          NUMBER;
@@ -197,8 +249,8 @@ WHEN exceptii.autor_inexistent THEN
 WHEN OTHERS THEN
   raise_application_error(-20012,'Eroare la ?tergere autor! V? rug?m s? încerca?i din nou.');
 END sterge_autor;
-/
-CREATE OR REPLACE PROCEDURE sterge_opera(
+
+PROCEDURE sterge_opera(
     p_opID opere.opID%type)
 IS
   v_count           NUMBER;
@@ -214,8 +266,8 @@ WHEN exceptii.opera_inexistenta THEN
 WHEN OTHERS THEN
   raise_application_error(-20014,'Eroare la ?tergere oper?! V? rug?m s? încerca?i din nou.');
 END sterge_opera;
-/
-CREATE OR REPLACE PROCEDURE sterge_subgen(
+
+PROCEDURE sterge_subgen(
     p_subgen ierarhie.subgen%type,
     p_mesaj_succes out varchar2)
 IS
@@ -237,4 +289,7 @@ WHEN exceptii.subgen_inexistent THEN
 WHEN OTHERS THEN
   raise_application_error(-20016,'Eroare la ?tergere oper?! V? rug?m s? încerca?i din nou.');
 END sterge_subgen;
+
+END CRUD;
 /
+

@@ -3,19 +3,23 @@ IS
   FUNCTION carte_random(
       p_HTML IN NUMBER)
     RETURN VARCHAR2;
+    
   PROCEDURE rate(
       p_utilizator utilizator_carte_rating.utilizator%type,
       p_isbn utilizator_carte_rating.isbn%type,
       p_rating utilizator_carte_rating.rating%type,
       p_mesaj_succes OUT VARCHAR2);
+      
   FUNCTION afiseaza_carte(
       p_ISBN IN carti.ISBN%TYPE,
       p_HTML IN NUMBER)
     RETURN VARCHAR2;
+    
   FUNCTION afiseaza_opera(
       p_opID IN opere.opID%TYPE,
       p_HTML IN NUMBER)
     RETURN VARCHAR2;
+    
 END gestioneaza_carte;
 /
 
@@ -127,6 +131,7 @@ BEGIN
   
   v_rezultat := v_rezultat || marcheaza_continut(p_HTML, '<p>', '</p>', 'Rating: ' || v_rating);
   v_rezultat := v_rezultat || marcheaza_continut(p_HTML, '<a href="', '"> Calea </a>', v_calea);
+  v_rezultat := marcheaza_continut(p_HTML, '<div style="border:1px solid black; margin: 10px;padding:10px">', '</div>', v_rezultat);
   
   RETURN v_rezultat;
   
@@ -149,16 +154,13 @@ BEGIN
   v_autori := marcheaza_continut(p_HTML, '<ol>', '</ol>', v_autori);
   v_autori := marcheaza_continut(p_HTML, '<p>', '</p>', 'Autori: ' || v_autori);
   v_rezultat := v_rezultat || v_autori;
-
+  v_rezultat := marcheaza_continut(p_HTML, '<div style="border:1px solid black; margin: 10px; padding: 10px">', '</div>', v_rezultat);
   RETURN v_rezultat;
 END afiseaza_opera;
 
 END gestioneaza_carte;
 /
-
---select opID from opere natural join opere_autori group by opID having count(*) > 1;
---
 --begin
---  dbms_output.put_line(gestioneaza_carte.afiseaza_opera(745, 1));
+--dbms_output.put_line(gestioneaza_carte.afiseaza_carte(10, 1));
 --end;
 --/
