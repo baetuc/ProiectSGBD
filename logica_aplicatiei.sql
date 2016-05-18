@@ -6,7 +6,6 @@ CREATE OR REPLACE PACKAGE logica_aplicatiei AS
   
   procedure citat_random(v_text out varchar2, v_autor out varchar2);
   
-  -- Paginarea??
 END logica_aplicatiei;
 /
 

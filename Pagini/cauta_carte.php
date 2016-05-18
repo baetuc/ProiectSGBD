@@ -7,7 +7,7 @@ if(isset($_REQUEST['titlu']))
 $conn = oci_connect('STUDENT', 'STUDENT', 'localhost/XE');
 if (!$conn) {
     $_SESSION['mesaj_exceptie']='Eroare la conectare!';
-    $_SESSION['link_exceptie']='pagina_principala.html';
+    $_SESSION['link_exceptie']='pagina_principala.php';
     header('Location: ./eroare.php');
     exit;
 }
@@ -33,7 +33,7 @@ $r = @oci_execute($stid);
 if (!$r) {
     $m = oci_error($stid);
     $_SESSION['mesaj_exceptie']=$m['message'];
-    $_SESSION['link_exceptie']='pagina_principala.html';
+    $_SESSION['link_exceptie']='pagina_principala.php';
     header('Location: ./eroare.php');
     exit;
 }

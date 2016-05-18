@@ -12,12 +12,12 @@ if(isset($_REQUEST['titlu'])){
     $_SESSION['nume']=$_REQUEST['nume'];
     $_SESSION['prenume']=$_REQUEST['prenume'];
 }
-    
+
 
 $conn = oci_connect('STUDENT', 'STUDENT', 'localhost/XE');
 if (!$conn) {
     $_SESSION['mesaj_exceptie']='Eroare la conectare!';
-    $_SESSION['link_exceptie']='pagina_principala.html';
+    $_SESSION['link_exceptie']='pagina_principala.php';
     header('Location: ./eroare.php');
     exit;
 }
@@ -53,7 +53,7 @@ $r = @oci_execute($stid);
 if (!$r) {
     $m = oci_error($stid);
     $_SESSION['mesaj_exceptie']=$m['message'];
-    $_SESSION['link_exceptie']='pagina_principala.html';
+    $_SESSION['link_exceptie']='pagina_principala.php';
     header('Location: ./eroare.php');
     exit;
 }
@@ -65,7 +65,7 @@ echo '
   <title>Insereaza Carte</title>
 </head>
 <body>
-<div><a href = "pagina_principala.php"> Înapoi</a></div> 
+<div><a href = "pagina_principala.php"> Înapoi</a></div>
 Succes!
 </body>
 </html>';
